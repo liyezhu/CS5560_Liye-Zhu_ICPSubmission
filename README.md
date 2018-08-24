@@ -1,1 +1,1 @@
-# CS5560_Liye-Zhu_ICPSubmission
+# CS5560_LiyeZhu_ICPSubmission
