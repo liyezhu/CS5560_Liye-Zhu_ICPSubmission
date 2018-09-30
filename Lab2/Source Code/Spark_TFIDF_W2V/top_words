@@ -1,0 +1,355 @@
+"C:\Program Files\Java\jdk1.8.0_31\bin\java.exe" "-javaagent:C:\apps\IntelliJ IDEA\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=2282:C:\apps\IntelliJ IDEA\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_31\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_31\jre\lib\rt.jar;C:\Programming\KMD\ICP\Tutorial 3 Source Code new\Tutorial 3 Source Code\NCBO_BioNLP\target\scala-2.11\classes;C:\Users\lzd27\.ivy2\cache\aopalliance\aopalliance\jars\aopalliance-1.0.jar;C:\Users\lzd27\.ivy2\cache\xmlenc\xmlenc\jars\xmlenc-0.52.jar;C:\Users\lzd27\.ivy2\cache\xml-apis\xml-apis\jars\xml-apis-1.3.04.jar;C:\Users\lzd27\.ivy2\cache\xerces\xercesImpl\jars\xercesImpl-2.9.1.jar;C:\Users\lzd27\.ivy2\cache\xalan\xalan\jars\xalan-2.7.0.jar;C:\Users\lzd27\.ivy2\cache\oro\oro\jars\oro-2.0.8.jar;C:\Users\lzd27\.ivy2\cache\org.xerial.snappy\snappy-java\bundles\snappy-java-1.1.2.6.jar;C:\Users\lzd27\.ivy2\cache\org.typelevel\macro-compat_2.11\jars\macro-compat_2.11-1.1.1.jar;C:\Users\lzd27\.ivy2\cache\org.typelevel\machinist_2.11\jars\machinist_2.11-0.6.1.jar;C:\Users\lzd27\.ivy2\cache\org.tukaani\xz\jars\xz-1.0.jar;C:\Users\lzd27\.ivy2\cache\org.spire-math\spire_2.11\jars\spire_2.11-0.13.0.jar;C:\Users\lzd27\.ivy2\cache\org.spire-math\spire-macros_2.11\jars\spire-macros_2.11-0.13.0.jar;C:\Users\lzd27\.ivy2\cache\org.spark-project.spark\unused\jars\unused-1.0.0.jar;C:\Users\lzd27\.ivy2\cache\org.sonatype.sisu.inject\cglib\jars\cglib-2.2.1-v20090111.jar;C:\Users\lzd27\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.16.jar;C:\Users\lzd27\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar;C:\Users\lzd27\.ivy2\cache\org.slf4j\jul-to-slf4j\jars\jul-to-slf4j-1.7.16.jar;C:\Users\lzd27\.ivy2\cache\org.slf4j\jcl-over-slf4j\jars\jcl-over-slf4j-1.7.16.jar;C:\Users\lzd27\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.13.2.jar;C:\Users\lzd27\.ivy2\cache\org.scalanlp\breeze-macros_2.11\jars\breeze-macros_2.11-0.13.2.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.4.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.11.8.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.8.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar;C:\Users\lzd27\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.8.jar;C:\Users\lzd27\.ivy2\cache\org.roaringbitmap\RoaringBitmap\bundles\RoaringBitmap-0.5.11.jar;C:\Users\lzd27\.ivy2\cache\org.objenesis\objenesis\jars\objenesis-2.1.jar;C:\Users\lzd27\.ivy2\cache\org.mortbay.jetty\jetty-util\jars\jetty-util-6.1.26.jar;C:\Users\lzd27\.ivy2\cache\org.lz4\lz4-java\jars\lz4-java-1.4.0.jar;C:\Users\lzd27\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.2.11.jar;C:\Users\lzd27\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.2.11.jar;C:\Users\lzd27\.ivy2\cache\org.json4s\json4s-ast_2.11\jars\json4s-ast_2.11-3.2.11.jar;C:\Users\lzd27\.ivy2\cache\org.javassist\javassist\bundles\javassist-3.18.1-GA.jar;C:\Users\lzd27\.ivy2\cache\org.htrace\htrace-core\jars\htrace-core-3.0.4.jar;C:\Users\lzd27\.ivy2\cache\org.hamcrest\hamcrest-core\jars\hamcrest-core-1.1.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\jars\jersey-media-jaxb-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.core\jersey-server\jars\jersey-server-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.core\jersey-common\jars\jersey-common-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.core\jersey-client\jars\jersey-client-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\jars\jersey-container-servlet-core-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\jars\jersey-container-servlet-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\bundles\jersey-guava-2.22.2.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2.external\javax.inject\jars\javax.inject-2.4.0-b34.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\jars\aopalliance-repackaged-2.4.0-b34.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\jars\osgi-resource-locator-1.0.1.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2\hk2-utils\jars\hk2-utils-2.4.0-b34.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2\hk2-locator\jars\hk2-locator-2.4.0-b34.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish.hk2\hk2-api\jars\hk2-api-2.4.0-b34.jar;C:\Users\lzd27\.ivy2\cache\org.glassfish\javax.json\bundles\javax.json-1.0.4.jar;C:\Users\lzd27\.ivy2\cache\org.fusesource.leveldbjni\leveldbjni-all\bundles\leveldbjni-all-1.8.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.jettison\jettison\bundles\jettison-1.1.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.janino\janino\jars\janino-3.0.8.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.janino\commons-compiler\jars\commons-compiler-3.0.8.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.jackson\jackson-xc\jars\jackson-xc-1.9.13.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.jackson\jackson-mapper-asl\jars\jackson-mapper-asl-1.9.13.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.jackson\jackson-jaxrs\jars\jackson-jaxrs-1.9.13.jar;C:\Users\lzd27\.ivy2\cache\org.codehaus.jackson\jackson-core-asl\jars\jackson-core-asl-1.9.13.jar;C:\Users\lzd27\.ivy2\cache\org.bouncycastle\bcprov-jdk15on\jars\bcprov-jdk15on-1.52.jar;C:\Users\lzd27\.ivy2\cache\org.apache.zookeeper\zookeeper\jars\zookeeper-3.4.6.jar;C:\Users\lzd27\.ivy2\cache\org.apache.xbean\xbean-asm5-shaded\bundles\xbean-asm5-shaded-4.4.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\jars\spark-unsafe_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-sketch_2.11\jars\spark-sketch_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\jars\spark-network-shuffle_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-network-common_2.11\jars\spark-network-common_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-launcher_2.11\jars\spark-launcher_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-kvstore_2.11\jars\spark-kvstore_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-graphx_2.11\jars\spark-graphx_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-jackson\jars\parquet-jackson-1.8.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-hadoop\jars\parquet-hadoop-1.8.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-format\jars\parquet-format-2.3.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-encoding\jars\parquet-encoding-1.8.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-common\jars\parquet-common-1.8.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.parquet\parquet-column\jars\parquet-column-1.8.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.orc\orc-mapreduce\jars\orc-mapreduce-1.4.4-nohive.jar;C:\Users\lzd27\.ivy2\cache\org.apache.orc\orc-core\jars\orc-core-1.4.4-nohive.jar;C:\Users\lzd27\.ivy2\cache\org.apache.lucene\lucene-sandbox\jars\lucene-sandbox-4.10.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.lucene\lucene-queryparser\jars\lucene-queryparser-4.10.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.lucene\lucene-queries\jars\lucene-queries-4.10.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.lucene\lucene-core\jars\lucene-core-4.10.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.lucene\lucene-analyzers-common\jars\lucene-analyzers-common-4.10.3.jar;C:\Users\lzd27\.ivy2\cache\org.apache.ivy\ivy\jars\ivy-2.4.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.httpcomponents\httpcore\jars\httpcore-4.4.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.httpcomponents\httpclient\jars\httpclient-4.5.2.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\jars\hadoop-yarn-server-common-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\jars\hadoop-yarn-common-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\jars\hadoop-yarn-client-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\jars\hadoop-yarn-api-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\jars\hadoop-mapreduce-client-shuffle-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\jars\hadoop-mapreduce-client-jobclient-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\jars\hadoop-mapreduce-client-core-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\jars\hadoop-mapreduce-client-common-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\jars\hadoop-mapreduce-client-app-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-hdfs\jars\hadoop-hdfs-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-client\jars\hadoop-client-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-auth\jars\hadoop-auth-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.hadoop\hadoop-annotations\jars\hadoop-annotations-2.6.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.directory.server\apacheds-kerberos-codec\bundles\apacheds-kerberos-codec-2.0.0-M15.jar;C:\Users\lzd27\.ivy2\cache\org.apache.directory.server\apacheds-i18n\bundles\apacheds-i18n-2.0.0-M15.jar;C:\Users\lzd27\.ivy2\cache\org.apache.directory.api\api-util\bundles\api-util-1.0.0-M20.jar;C:\Users\lzd27\.ivy2\cache\org.apache.directory.api\api-asn1-api\bundles\api-asn1-api-1.0.0-M20.jar;C:\Users\lzd27\.ivy2\cache\org.apache.curator\curator-recipes\bundles\curator-recipes-2.6.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.curator\curator-framework\bundles\curator-framework-2.6.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.curator\curator-client\bundles\curator-client-2.6.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.commons\commons-math3\jars\commons-math3-3.4.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.5.jar;C:\Users\lzd27\.ivy2\cache\org.apache.commons\commons-crypto\jars\commons-crypto-1.0.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.commons\commons-compress\jars\commons-compress-1.4.1.jar;C:\Users\lzd27\.ivy2\cache\org.apache.avro\avro-mapred\jars\avro-mapred-1.7.7-hadoop2.jar;C:\Users\lzd27\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7-tests.jar;C:\Users\lzd27\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7.jar;C:\Users\lzd27\.ivy2\cache\org.apache.avro\avro\jars\avro-1.7.7.jar;C:\Users\lzd27\.ivy2\cache\org.apache.arrow\arrow-vector\jars\arrow-vector-0.8.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.arrow\arrow-memory\jars\arrow-memory-0.8.0.jar;C:\Users\lzd27\.ivy2\cache\org.apache.arrow\arrow-format\jars\arrow-format-0.8.0.jar;C:\Users\lzd27\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.7.jar;C:\Users\lzd27\.ivy2\cache\net.sourceforge.f2j\arpack_combined_all\jars\arpack_combined_all-0.1.jar;C:\Users\lzd27\.ivy2\cache\net.sf.py4j\py4j\jars\py4j-0.10.7.jar;C:\Users\lzd27\.ivy2\cache\net.sf.opencsv\opencsv\jars\opencsv-2.3.jar;C:\Users\lzd27\.ivy2\cache\net.razorvine\pyrolite\jars\pyrolite-4.13.jar;C:\Users\lzd27\.ivy2\cache\net.java.dev.jets3t\jets3t\jars\jets3t-0.9.4.jar;C:\Users\lzd27\.ivy2\cache\net.iharder\base64\jars\base64-2.3.8.jar;C:\Users\lzd27\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar;C:\Users\lzd27\.ivy2\cache\junit\junit\jars\junit-4.10.jar;C:\Users\lzd27\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.9.9.jar;C:\Users\lzd27\.ivy2\cache\jline\jline\jars\jline-0.9.94.jar;C:\Users\lzd27\.ivy2\cache\javax.xml.bind\jaxb-api\jars\jaxb-api-2.2.7.jar;C:\Users\lzd27\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar;C:\Users\lzd27\.ivy2\cache\javax.validation\validation-api\jars\validation-api-1.1.0.Final.jar;C:\Users\lzd27\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.1.0.jar;C:\Users\lzd27\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar;C:\Users\lzd27\.ivy2\cache\javax.annotation\javax.annotation-api\jars\javax.annotation-api-1.2.jar;C:\Users\lzd27\.ivy2\cache\javax.activation\activation\jars\activation-1.1.1.jar;C:\Users\lzd27\.ivy2\cache\io.netty\netty-all\jars\netty-all-4.1.17.Final.jar;C:\Users\lzd27\.ivy2\cache\io.netty\netty\bundles\netty-3.9.9.Final.jar;C:\Users\lzd27\.ivy2\cache\io.dropwizard.metrics\metrics-jvm\bundles\metrics-jvm-3.1.5.jar;C:\Users\lzd27\.ivy2\cache\io.dropwizard.metrics\metrics-json\bundles\metrics-json-3.1.5.jar;C:\Users\lzd27\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\bundles\metrics-graphite-3.1.5.jar;C:\Users\lzd27\.ivy2\cache\io.dropwizard.metrics\metrics-core\bundles\metrics-core-3.1.5.jar;C:\Users\lzd27\.ivy2\cache\io.airlift\aircompressor\jars\aircompressor-0.8.jar;C:\Users\lzd27\.ivy2\cache\edu.stanford.nlp\stanford-parser\jars\stanford-parser-3.9.1.jar;C:\Users\lzd27\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1-models.jar;C:\Users\lzd27\.ivy2\cache\edu.stanford.nlp\stanford-corenlp\jars\stanford-corenlp-3.9.1.jar;C:\Users\lzd27\.ivy2\cache\de.jollyday\jollyday\jars\jollyday-0.4.9.jar;C:\Users\lzd27\.ivy2\cache\commons-net\commons-net\jars\commons-net-2.2.jar;C:\Users\lzd27\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.2.jar;C:\Users\lzd27\.ivy2\cache\commons-lang\commons-lang\jars\commons-lang-2.6.jar;C:\Users\lzd27\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.4.jar;C:\Users\lzd27\.ivy2\cache\commons-httpclient\commons-httpclient\jars\commons-httpclient-3.1.jar;C:\Users\lzd27\.ivy2\cache\commons-digester\commons-digester\jars\commons-digester-1.8.jar;C:\Users\lzd27\.ivy2\cache\commons-configuration\commons-configuration\jars\commons-configuration-1.6.jar;C:\Users\lzd27\.ivy2\cache\commons-collections\commons-collections\jars\commons-collections-3.2.2.jar;C:\Users\lzd27\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.11.jar;C:\Users\lzd27\.ivy2\cache\commons-cli\commons-cli\jars\commons-cli-1.2.jar;C:\Users\lzd27\.ivy2\cache\commons-beanutils\commons-beanutils-core\jars\commons-beanutils-core-1.8.0.jar;C:\Users\lzd27\.ivy2\cache\commons-beanutils\commons-beanutils\jars\commons-beanutils-1.7.0.jar;C:\Users\lzd27\.ivy2\cache\com.vlkan\flatbuffers\jars\flatbuffers-1.2.0-3f79e055.jar;C:\Users\lzd27\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-2.5.9.jar;C:\Users\lzd27\.ivy2\cache\com.twitter\chill_2.11\jars\chill_2.11-0.8.4.jar;C:\Users\lzd27\.ivy2\cache\com.twitter\chill-java\jars\chill-java-0.8.4.jar;C:\Users\lzd27\.ivy2\cache\com.thoughtworks.paranamer\paranamer\bundles\paranamer-2.8.jar;C:\Users\lzd27\.ivy2\cache\com.ning\compress-lzf\bundles\compress-lzf-1.0.3.jar;C:\Users\lzd27\.ivy2\cache\com.jamesmurty.utils\java-xmlbuilder\jars\java-xmlbuilder-1.1.jar;C:\Users\lzd27\.ivy2\cache\com.io7m.xom\xom\jars\xom-1.2.10.jar;C:\Users\lzd27\.ivy2\cache\com.googlecode.json-simple\json-simple\bundles\json-simple-1.1.1.jar;C:\Users\lzd27\.ivy2\cache\com.googlecode.efficient-java-matrix-library\ejml\jars\ejml-0.23.jar;C:\Users\lzd27\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-3.2.0.jar;C:\Users\lzd27\.ivy2\cache\com.google.inject\guice\jars\guice-3.0.jar;C:\Users\lzd27\.ivy2\cache\com.google.guava\guava\jars\guava-11.0.2.jar;C:\Users\lzd27\.ivy2\cache\com.google.code.gson\gson\jars\gson-2.2.4.jar;C:\Users\lzd27\.ivy2\cache\com.google.code.findbugs\jsr305\jars\jsr305-3.0.2.jar;C:\Users\lzd27\.ivy2\cache\com.github.scopt\scopt_2.10\jars\scopt_2.10-3.4.0.jar;C:\Users\lzd27\.ivy2\cache\com.github.rwl\jtransforms\jars\jtransforms-2.4.0.jar;C:\Users\lzd27\.ivy2\cache\com.github.luben\zstd-jni\bundles\zstd-jni-1.3.2-2.jar;C:\Users\lzd27\.ivy2\cache\com.github.fommil.netlib\core\jars\core-1.1.2.jar;C:\Users\lzd27\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\bundles\jackson-module-scala_2.11-2.6.7.1.jar;C:\Users\lzd27\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\bundles\jackson-module-paranamer-2.7.9.jar;C:\Users\lzd27\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.6.7.1.jar;C:\Users\lzd27\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.7.9.jar;C:\Users\lzd27\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\bundles\jackson-annotations-2.6.7.jar;C:\Users\lzd27\.ivy2\cache\com.esotericsoftware\minlog\bundles\minlog-1.3.0.jar;C:\Users\lzd27\.ivy2\cache\com.esotericsoftware\kryo-shaded\bundles\kryo-shaded-3.0.3.jar;C:\Users\lzd27\.ivy2\cache\com.clearspring.analytics\stream\jars\stream-2.7.0.jar;C:\Users\lzd27\.ivy2\cache\com.chuusai\shapeless_2.11\bundles\shapeless_2.11-2.3.2.jar;C:\Users\lzd27\.ivy2\cache\com.carrotsearch\hppc\bundles\hppc-0.7.2.jar;C:\Users\lzd27\.ivy2\cache\com.apple\AppleJavaExtensions\jars\AppleJavaExtensions-1.4.jar" RESTClientGet Bioconcept examples_data/ex.pmid PubTator
+30261139|t|The Role of Rab GTPases in Alzheimer's Disease.
+30261139|a|Alzheimer's disease (AD) comprises two major pathological hallmarks: extraneuronal deposition of b-amyloid (Ab) peptides ("senile plaques") and intraneuronal aggregation of the microtubule-associated protein tau ("neurofibrillary tangles"). Ab is derived from sequential cleavage of the b-amyloid precursor protein by b- and y-secretases, while aggregated tau is hyperphosphorylated in AD. Mounting evidence suggests that dysregulated trafficking of these AD-related proteins contributes to AD pathogenesis. Rab proteins are small GTPases that function as master regulators of vesicular transport and membrane trafficking. Multiple Rab GTPases have been implicated in AD-related protein trafficking and their expression has been observed to be altered in postmortem AD brain. Here we review current implicated roles of Rab GTPase dysregulation in AD pathogenesis. Further elucidation of the pathophysiological role of Rab GTPases will likely reveal novel targets for AD therapeutics.
+30261139	27	46	Alzheimer's Disease	Disease	D000544
+30261139	48	67	Alzheimer's disease	Disease	D000544
+30261139	69	71	AD	Disease	D000544
+30261139	192	217	intraneuronal aggregation	Disease	D001791
+30261139	225	259	microtubule-associated protein tau	Gene	4137
+30261139	434	436	AD	Disease	D000544
+30261139	504	506	AD	Disease	D000544
+30261139	539	541	AD	Disease	D000544
+30261139	716	718	AD	Disease	D000544
+30261139	814	816	AD	Disease	D000544
+30261139	895	897	AD	Disease	D000544
+30261139	1015	1017	AD	Disease	D000544
+
+30261006|t|Designing antibodies against LRRK2-targeted tau epitopes.
+30261006|a|Phosphorylation of the microtubule associated protein tau is an important modulator of its normal physiological functioning; however, it may also contribute to tau mis-folding and aggregation in neurodegenerative diseases, which are collectively termed tauopathies. As such, the investigations of tau phosphorylation and kinases that modify tau are important in trying to elucidate tau function and the mechanisms involved in the development of tauopathies. We have recently demonstrated that the putative tau kinase leucine-rich repeat kinase 2 is capable of phosphorylating tau at threonines 169 and 175 in vitro, and it has been previously shown that hyperphosphorylation at threonine 175 occurs in filamentous tau species from Alzheimer's brain tissue. These prior findings suggest that further studies of phosphorylation of tau at these epitopes may shed light on the pathogenesis of tauopathies. There is, however, a lack of tools available to analyze phosphorylation of tau at these sites. This study aimed to bridge that resource gap by generating monoclonal antibodies against tau phosphorylated at either threonine 169 or 175. While we did not succeed in generating a phospho-specific antibody, we did generate an antibody, MHT2, which is specific for human tau encompassing the threonine 169/175 epitope region. Immunostaining of transgenic rTg4510 mouse tissue as well as human tauopathy cases with MHT2 indicates that this antibody selectively detects cytoplasmic tau in the form of neurofibrillary tangles, and that it may have a further specificity pertaining to severity of disease progression, either because of phosphorylation or conformational bias.
+30261006	29	34	LRRK2	Gene	120892
+30261006	81	115	microtubule associated protein tau	Gene	4137
+30261006	253	279	neurodegenerative diseases	Disease	D019636
+30261006	311	322	tauopathies	Disease	D024801
+30261006	503	514	tauopathies	Disease	D024801
+30261006	575	582	leucine	Chemical	CHEBI:25017
+30261006	736	745	threonine	Chemical	CHEBI:26986
+30261006	789	806	Alzheimer's brain	Disease	D000544
+30261006	947	958	tauopathies	Disease	D024801
+30261006	1173	1182	threonine	Chemical	CHEBI:26986
+30261006	1236	1243	phospho	Chemical
+30261006	1320	1325	human	Species	9606
+30261006	1347	1356	threonine	Chemical	CHEBI:26986
+30261006	1418	1423	mouse	Species	10090
+30261006	1442	1447	human	Species	9606
+30261006	1448	1457	tauopathy	Disease	D024801
+30261006	1554	1577	neurofibrillary tangles	Disease	C536599
+
+30260793|t|Crosstalk between neurokinin receptor signaling and neuroinflammation in neurological disorders.
+30260793|a|The neurokinin 1 receptor with the natural substrate substance P is one of the intensely studied receptors among the neurokinin receptors. The intracellular signaling mechanism uses G protein-coupled transduction regulating various physiological processes from nausea to Alzheimer's disease. The neurokinin 1 receptor plays a significant role in neuroinflammation-mediated alterations in neural circuitry. Neurokinin 1 receptor antagonists are selective, potent and exhibited efficacy in animal models of nervous system disorders. Evolving data now strengthen the viewpoint of brain substance P/neurokinin 1 receptor axis-mediated action in neural circuit dysfunction. Thus, a deep-rooted analysis of disease mechanism in which the neurokinin 1 receptor is involved is necessary for augmenting disease models which encourage the pharmaceutical industry to intensify the research pipeline. This review is an attempt to outline the concept of neurokinin 1 receptor signaling interlinked to the brain innate immune system. We also uncover the mechanisms of the neurokinin 1 receptor involved in neurological disorder and various methods of modulating the neurokinin 1 receptor, which may result in therapeutic action.
+30260793	73	95	neurological disorders	Disease	D009422
+30260793	150	161	substance P	Gene	6863
+30260793	368	387	Alzheimer's disease	Disease	D000544
+30260793	602	626	nervous system disorders	Disease	D009421
+30260793	680	691	substance P	Gene	6863
+30260793	1189	1210	neurological disorder	Disease	D009422
+
+30260518|t|Involvement of calpain in the neuropathogenesis of Alzheimer's disease.
+30260518|a|Alzheimer's disease (AD) is the most common (60% to 80%) age-related disease associated with dementia and is characterized by a deterioration of behavioral and cognitive capacities leading to death in few years after diagnosis, mainly due to complications from chronic illness. The characteristic hallmarks of the disease are extracellular senile plaques (SPs) and intracellular neurofibrillary tangles (NFTs) with neuropil threads, which are a direct result of amyloid precursor protein (APP) processing to Ab, and    hyperphosphorylation. However, many indirect underlying processes play a role in this event. One of these underlying mechanisms leading to these histological hallmarks is the uncontrolled hyperactivation of a family of cysteine proteases called calpains. Under normal physiological condition calpains participate in many processes of cells' life and their activation is tightly controlled. However, with an increase in age, increased oxidative stress and other excitotoxicity assaults, this regulatory system becomes impaired and result in increased activation of these proteases involving them in the pathogenesis of various diseases including neurodegeneration like AD. Reviewed here is a pool of data on the implication of calpains in the pathogenesis of AD, the underlying molecular mechanism, and the potential of targeting these enzymes for AD therapeutics.
+30260518	51	70	Alzheimer's disease	Disease	D000544
+30260518	72	91	Alzheimer's disease	Disease	D000544
+30260518	93	95	AD	Disease	D000544
+30260518	165	173	dementia	Disease	D003704
+30260518	333	348	chronic illness	Disease	D002908
+30260518	810	818	cysteine	Chemical	D003545
+30260518	1236	1261	neurodegeneration like AD	Disease	D000544
+30260518	1349	1351	AD	Disease	D000544
+30260518	1438	1440	AD	Disease	D000544
+
+30260016|t|In silico evidence of direct interaction between statins and b-amyloid.
+30260016|a|INTRODUCTION: Aggregation of amyloid-b (Ab) peptides represents a crucial step in the pathogenesis of Alzheimer disease (AD). Compelling evidence from preclinical studies has established that statins may reduce amyloidogenesis and Ab-mediated neurodegeneration, supporting a potential role of statin treatment in the prevention of AD. Different statins have been shown to interfere indirectly with Ab production and clearance through either cholesterol-dependent or cholesterol-independent mechanisms. However, whether there may be a direct interaction between statins and Ab metabolism is still unclear. MATERIALS AND METHODS: To test the possible direct interaction between statins and Ab, we performed an in silico study by testing the orientation of different ligands, including statins and sulindac (the standard ligand of Ab), in the Ab active site using molecular operating environment (MOE) software. RESULTS: Docking experiments showed that all the tested statins could directly interact with Ab protofibrils. Among statins, pitavastatin had the strongest interaction with Ab (pki    =   7.66), followed by atorvastatin (pk i    =   7.63), rosuvastatin (pk i    =   6.99), fluvastatin (pk i   =    6.96), pravastatin (pk i    =   6.46), lovastatin (pk i    =   6.37), and simvastatin (pk i    =   5.90). According to the above-mentioned results, pitavastatin, atorvastatin, rosuvastatin, and fluvastatin had a stronger binding to Ab compared with the standard ligand sulindac (pk i    =   6.62). CONCLUSION: This study showed a direct interaction between statins and Ab protofibrils, which may underlie the protective role of this widely used class of drugs against amyloidogenesis and Ab-mediated neurodegeneration.
+30260016	49	56	statins	Chemical	D019821
+30260016	174	191	Alzheimer disease	Disease	D000544
+30260016	193	195	AD	Disease	D000544
+30260016	264	271	statins	Chemical	D019821
+30260016	315	332	neurodegeneration	Disease	D019636
+30260016	403	405	AD	Disease	D000544
+30260016	417	424	statins	Chemical	D019821
+30260016	513	524	cholesterol	Chemical	D002784
+30260016	538	549	cholesterol	Chemical	D002784
+30260016	633	640	statins	Chemical	D019821
+30260016	748	755	statins	Chemical	D019821
+30260016	855	862	statins	Chemical	D019821
+30260016	867	875	sulindac	Chemical	D013467
+30260016	1037	1044	statins	Chemical	D019821
+30260016	1097	1104	statins	Chemical	D019821
+30260016	1106	1118	pitavastatin	Chemical	C108475
+30260016	1188	1200	atorvastatin	Chemical	C065179
+30260016	1221	1233	rosuvastatin	Chemical	C422923
+30260016	1254	1265	fluvastatin	Chemical	C065180
+30260016	1286	1297	pravastatin	Chemical	D017035
+30260016	1318	1328	lovastatin	Chemical	D008148
+30260016	1353	1364	simvastatin	Chemical	D019821
+30260016	1427	1439	pitavastatin	Chemical	C108475
+30260016	1441	1453	atorvastatin	Chemical	C065179
+30260016	1455	1467	rosuvastatin	Chemical	C422923
+30260016	1473	1484	fluvastatin	Chemical	C065180
+30260016	1548	1556	sulindac	Chemical	D013467
+30260016	1636	1643	statins	Chemical	D019821
+30260016	1779	1796	neurodegeneration	Disease	D019636
+
+30259844|t|[Confusion, loss of consciousness and unspecific visual hallucinations may be symptoms of dementia with Lewy bodies].
+30259844|a|Dementia with Lewy bodies (DLB) is a common type of dementia. The core clinical symptoms are visual hallucinations, fluctuating cognition with pronounced variations in attention, REM sleep behaviour disorder and parkinsonism. Early diagnosis and differentiation from Alzheimer's disease can be challenging, especially when the core clinical symptoms are modest or only partly present. In this case report, we describe two patients, who had unexplained loss of consciousness and visual hallucinations, which were the early signs of DLB in absence of parkinsonism.
+30259844	12	33	loss of consciousness	Disease	D014474
+30259844	49	70	visual hallucinations	Disease	D006212
+30259844	90	98	dementia	Disease	D003704
+30259844	104	115	Lewy bodies	Disease	D020961
+30259844	118	143	Dementia with Lewy bodies	Disease	D020961
+30259844	145	148	DLB	Disease	D020961
+30259844	170	178	dementia	Disease	D003704
+30259844	211	232	visual hallucinations	Disease	D006212
+30259844	297	325	REM sleep behaviour disorder	Disease	D012893
+30259844	330	342	parkinsonism	Disease	D010302
+30259844	385	404	Alzheimer's disease	Disease	D000544
+30259844	540	548	patients	Species	9606
+30259844	570	591	loss of consciousness	Disease	D014474
+30259844	596	617	visual hallucinations	Disease	D006212
+30259844	649	652	DLB	Disease	D020961
+30259844	667	679	parkinsonism	Disease	D010302
+
+30259809|t|Sugars and Sweeteners: Structure, Properties and in silico Modeling.
+30259809|a|Several studies report the effects of excessive use of sugars and sweeteners in the diet. These include obesity, cardiac diseases, diabetes, and even lymphomas, leukemias, cancers of the bladder and brain, chronic fatigue syndrome, Parkinson's disease, Alzheimer's disease, multiple sclerosis, autism, and systemic lupus. On the other hand, each sugar and sweetener has a distinct metabolic assimilation process, and its chemical structure plays an important role in this process. Several scientific papers present the biological effects of the sugars and sweeteners in relation to their chemical structure. One important issue dealing with the sugars is the degree of similarity in their structures, focusing mostly on optical isomerism. Finding and developing new sugars and sweeteners with desired properties is an emerging research area, in which in silico approaches play an important role.
+30259809	0	6	Sugars	Chemical	D002241
+30259809	124	130	sugars	Chemical	D002241
+30259809	173	180	obesity	Disease	D009765
+30259809	182	198	cardiac diseases	Disease	D006331
+30259809	200	208	diabetes	Disease	D003920
+30259809	219	228	lymphomas	Disease	D008223
+30259809	230	239	leukemias	Disease	D007938
+30259809	241	248	cancers	Disease	D009369
+30259809	275	299	chronic fatigue syndrome	Disease	D015673
+30259809	301	320	Parkinson's disease	Disease	D010300
+30259809	322	341	Alzheimer's disease	Disease	D000544
+30259809	343	361	multiple sclerosis	Disease	D009103
+30259809	363	369	autism	Disease	D001321
+30259809	375	389	systemic lupus	Disease	D008180
+30259809	415	420	sugar	Chemical
+30259809	614	620	sugars	Chemical	D002241
+30259809	714	720	sugars	Chemical	D002241
+30259809	835	841	sugars	Chemical	D002241
+
+30259679|t|Secondary Structures Transition of Tau Protein with Intrinsically Disordered Proteins Specific Force Field.
+30259679|a|Microtubule-associated Tau protein plays a key role in assembling microtubule and modulating the functional organization of the neuron and developing axonal morphology, growth, and polarity. The pathological Tau can aggregate into cross-beta amyloid as one of the hallmarks for Alzheimer's disease (AD). Therefore, one of the top priorities in AD research is to figure out the structural model of Tau aggregation and to screen the inhibitors. The latest generation intrinsically disordered protein specific force field ff14IDPSFF significantly improved the distributions of heterogeneous conformations for intrinsically disordered proteins (IDPs). Here, the molecular dynamics (MD) simulations with three force fields of ff14SB, ff14IDPs, and ff14IDPSFF were employed to investigate the secondary structures transition of Tau (267-312) fragment. The results indicate that ff14IDPSFF can generate more heterogeneous conformers, and the predicted secondary structural distribution is closer to that of the experimental observation. In addition, predicted secondary chemical shifts from ff14IDPSFF are the most approach to those of experiment. Secondary structures transition kinetics for Tau(267-312) with ff14IDPSFF shows that the secondary structures were gradually transformed from a-helix to b-strand and the b-strand located at the regions of the residues 274-280 and residues 305-311. Besides, the driving force for the secondary structures transition of Tau(267-312) is mainly hydrophobic interactions which located at hexa-peptides 275 VQIINK280 and 306 VQIVYK311 . Secondary structure transition of Tau protein can insight into the aggregation mechanism for AD. This article is protected by copyright. All rights reserved.
+30259679	386	405	Alzheimer's disease	Disease	D000544
+30259679	407	409	AD	Disease	D000544
+30259679	452	454	AD	Disease	D000544
+30259679	505	520	Tau aggregation	Disease	D001791
+30259679	766	784	molecular dynamics	Disease	D030342
+30259679	786	788	MD	Disease	D030342
+30259679	930	933	Tau	Chemical	CHEBI:36355
+30259679	1294	1306	Tau(267-312)	Chemical
+30259679	1567	1579	Tau(267-312)	Chemical
+30259679	1773	1775	AD	Disease	D000544
+
+30259415|t|The Cholinergic System as a Treatment Target for Opioid Use Disorder.
+30259415|a|Opioid overdoses recently became the leading cause of accidental death in the US, marking an increase in the severity of the opioid use disorder (OUD) epidemic that is impacting global health. Current treatment protocols for OUD are limited to opioid medications, including methadone, buprenorphine, and naltrexone. While these medications are effective in many cases, new treatments are required to more effectively address the rising societal and interpersonal costs associated with OUD. In this article, we review the opioid and cholinergic systems, and examine the potential of acetylcholine (ACh) as a treatment target for OUD. The cholinergic system includes enzymes that synthesize and degrade ACh and receptors that mediate the effects of ACh. ACh is involved in many central nervous system functions that are critical to the development and maintenance of OUD, such as reward and cognition. Medications that target the cholinergic system have been approved for the treatment of Alzheimer's disease, tobacco use disorder, and nausea. Clinical and preclinical studies suggest that medications such as cholinesterase inhibitors and scopolamine, which target components of the cholinergic system, show promise for the treatment of OUD and further investigations are warranted.
+30259415	49	68	Opioid Use Disorder	Disease	D009293
+30259415	77	86	overdoses	Disease	D062787
+30259415	135	140	death	Disease	D003643
+30259415	195	214	opioid use disorder	Disease	D009293
+30259415	216	219	OUD	Disease	D009293
+30259415	295	298	OUD	Disease	D009293
+30259415	344	353	methadone	Chemical	D008691
+30259415	355	368	buprenorphine	Chemical	D002047
+30259415	374	384	naltrexone	Chemical	D009271
+30259415	555	558	OUD	Disease	D009293
+30259415	652	665	acetylcholine	Chemical	D000109
+30259415	667	670	ACh	Chemical	D000109
+30259415	698	701	OUD	Disease	D009293
+30259415	771	774	ACh	Chemical	D000109
+30259415	817	820	ACh	Chemical	D000109
+30259415	822	825	ACh	Chemical	D000109
+30259415	935	938	OUD	Disease	D009293
+30259415	1057	1076	Alzheimer's disease	Disease	D000544
+30259415	1078	1098	tobacco use disorder	Disease	D014029
+30259415	1104	1110	nausea	Disease	D009325
+30259415	1208	1219	scopolamine	Chemical	D012601
+30259415	1306	1309	OUD	Disease	D009293
+
+30259371|t|Circular RNA and Alzheimer's Disease.
+30259371|a|Circular RNAs (circRNAs) represent a special group of noncoding single-stranded highly stable ribonucleic acid entities abundant in the eukaryotic transcriptome. These circular forms of RNAs are significantly enriched in human brain and retinal tissues. However, the biological evolution and function of these circRNAs are poorly understood. Recent reports showed circRNA to be an important player in the development of neurodegenerative diseases like Alzheimer's disease. With the progression of age, circRNA level increases in the brain and also in age-associated neurological disorder like Alzheimer's disease (AD), Parkinson's disease, inflammatory neuropathy, nervous system neoplasms, and prion diseases. One highly represented circRNA in the human brain and retina is a ciRS-7 (CDR1as) which acts as an endogenous, anticomplementary miRNA inhibitor or "sponge" to quench the normal functioning of miRNA-7. Low CDR1as level can lead to increase in miR-7 expression which downregulates the activity of ubiquitin protein ligase A (UBE2A), an important AD target, functionally involved in clearing toxic amyloid peptides from AD brain. This chapter focuses on the functional relationship of circRNA with AD and interplay of miRNA-mRNA-mediated genetic regulatory networks. Our conceptual understanding also suggests that circRNA can be considered as a potential biomarker and therapeutic target in AD diagnosis and treatment.
+30259371	17	36	Alzheimer's Disease	Disease	D000544
+30259371	132	148	ribonucleic acid	Chemical	D012313
+30259371	259	264	human	Species	9606
+30259371	458	484	neurodegenerative diseases	Disease	D019636
+30259371	490	509	Alzheimer's disease	Disease	D000544
+30259371	604	625	neurological disorder	Disease	D009422
+30259371	631	650	Alzheimer's disease	Disease	D000544
+30259371	652	654	AD	Disease	D000544
+30259371	657	676	Parkinson's disease	Disease	D010300
+30259371	678	701	inflammatory neuropathy	Disease	D009422
+30259371	703	727	nervous system neoplasms	Disease	D009423
+30259371	733	747	prion diseases	Disease	D017096
+30259371	787	792	human	Species	9606
+30259371	815	821	ciRS-7	Gene	103611090
+30259371	823	829	CDR1as	Gene	103611090
+30259371	955	959	CDR1	Gene	1038
+30259371	992	997	miR-7	Gene	10859
+30259371	1073	1078	UBE2A	Gene	7319
+30259371	1094	1096	AD	Disease	D000544
+30259371	1167	1169	AD	Disease	D000544
+30259371	1245	1247	AD	Disease	D000544
+30259371	1439	1441	AD	Disease	D000544
+
+30259368|t|Circular RNAs and Neuronal Development.
+30259368|a|Circular RNAs (circRNAs) are abundant in the brain and are often expressed in complex spatiotemporal patterns that coincide with distinct developmental transitions. This suggests that circRNAs play a significant role in the central  nervous system. This book chapter will review research progress into the function of circRNAs during neuronal development. The major themes to be discussed are the enrichment of circRNAs in the synapse and their possible contributions to synaptopathologies, in addition to the findings that neural circRNAs accumulate with age and appear beneficial for neuronal repair. Although more research is needed, some of the possible functions of circRNAs with in the brain are already beginning to come to light.
+
+30259257|t|Exosomes Isolated From Human Umbilical Cord Mesenchymal Stem Cells Alleviate Neuroinflammation and Reduce Amyloid-Beta Deposition by Modulating Microglial Activation in Alzheimer's Disease.
+30259257|a|Alzheimer's disease (AD) is the most common neurodegenerative disease characterized by excessive accumulation of the amyloid-b peptide (Ab) in the brain, which has been considered to mediate the neuroinflammation process. Microglial activation is the main component of neuroimmunoregulation. In recent years, exosomes isolated from human umbilical cord mesenchymal stem cells (hucMSC-exosomes) have been demonstrated to mimic the therapeutic effects of hucMSCs in many inflammation-related diseases. In this study, exosomes from the supernatant of hucMSCs were injected into AD mouse models. We observed that hucMSC-exosomes injection could repair cognitive disfunctions and help to clear Ab deposition in these mice. Moreover, we found that hucMSC-exosomes injection could modulate the activation of microglia in brains of the mice to alleviated neuroinflammation. The levels of pro-inflammatory cytokines in peripheral blood and brains of mice were increased and the levels of anti-inflammatory cytokines were decreased. We also treated BV2 cells with hucMSC-exosomes in culture medium. HucMSC-exosomes also had inflammatory regulating effects to alternatively activate microglia and modulate the levels of inflammatory cytokines in vitro.
+30259257	23	28	Human	Species	9606
+30259257	169	188	Alzheimer's Disease	Disease	D000544
+30259257	190	209	Alzheimer's disease	Disease	D000544
+30259257	211	213	AD	Disease	D000544
+30259257	234	259	neurodegenerative disease	Disease	D019636
+30259257	522	527	human	Species	9606
+30259257	659	688	inflammation-related diseases	Disease	D007249
+30259257	765	767	AD	Disease	D000544
+30259257	768	773	mouse	Species	10090
+30259257	902	906	mice	Species	10090
+30259257	1018	1022	mice	Species	10090
+30259257	1131	1135	mice	Species	10090
+
+30258976|t|Cognitive and structural cerebral changes in amnestic mild cognitive impairment due to Alzheimer's disease after multicomponent training.
+30258976|a|Introduction: Information about how physical exercise affects patients with amnestic mild cognitive impairment (aMCI) due to Alzheimer's disease (AD) is still missing. This study evaluated the impact of multicomponent exercise training on cognition and brain structure in aMCI subjects with cerebral spinal fluid positive AD biomarkers. Methods: Forty aMCI subjects were divided in training (multicomponent exercise thrice a week for 6 months) and nontraining groups. Assessments included cardiorespiratory fitness, neurocognitive tests, and a structural magnetic resonance imaging using 3.0  T scanner. FreeSurfer software analyzed hippocampal volume and cortical thickness. Results: The training group showed increased volume in both hippocampi and better performance in episodic memory test after 6 months. In contrast, the nontraining group declined in functional activities, recognition, and cardiorespiratory fitness for the same period. Discussion: Multicomponent exercise seems to improve hippocampal volume and episodic memory, and maintains VO2max in aMCI due to AD.
+30258976	45	79	amnestic mild cognitive impairment	Disease	D003072
+30258976	87	106	Alzheimer's disease	Disease	D000544
+30258976	200	208	patients	Species	9606
+30258976	214	248	amnestic mild cognitive impairment	Disease	D003072
+30258976	250	254	aMCI	Disease	D003072
+30258976	263	282	Alzheimer's disease	Disease	D000544
+30258976	284	286	AD	Disease	D000544
+30258976	410	414	aMCI	Disease	D003072
+30258976	460	462	AD	Disease	D000544
+30258976	490	494	aMCI	Disease	D003072
+30258976	627	652	cardiorespiratory fitness	Disease	D012640
+30258976	1035	1060	cardiorespiratory fitness	Disease	D012640
+30258976	1199	1203	aMCI	Disease	D003072
+30258976	1211	1213	AD	Disease	D000544
+
+30258975|t|Electrical brain stimulation in different variants of primary progressive aphasia: A randomized clinical trial.
+30258975|a|Introduction: Transcranial direct current stimulation (tDCS) has been recently shown to improve language outcomes in primary progressive aphasia (PPA) but most studies are small and the influence of PPA variant is unknown. Methods: Thirty-six patients with PPA participated in a randomized, sham-controlled, double-blind, within-subject crossover design for 15 daily sessions of stimulation coupled with written naming/spelling therapy. Outcome measures were letter accuracy of treated and untreated words immediately after and at 2  weeks and 2  months posttreatment. Results: tDCS treatment was more effective than sham: gains for treated words were maintained 2  months posttreatment; gains from tDCS also generalized to untreated words and were sustained 2  months posttreatment. Different effects were obtained for each PPA variant, with no tDCS advantage for semantic variant PPA. Discussion: The study supports using tDCS as an adjunct to written language interventions in individuals with logopenic or nonfluent/agrammatic PPA seeking compensatory treatments in clinical settings.
+30258975	54	81	primary progressive aphasia	Disease	D018888
+30258975	229	256	primary progressive aphasia	Disease	D018888
+30258975	258	261	PPA	Disease	D018888
+30258975	311	314	PPA	Disease	D018888
+30258975	355	363	patients	Species	9606
+30258975	369	372	PPA	Disease	D018888
+30258975	937	940	PPA	Disease	D018888
+30258975	994	997	PPA	Disease	D018888
+30258975	1143	1146	PPA	Disease	D018888
+
+30258974|t|A novel two-day intervention reduces stress in caregivers of persons with dementia.
+30258974|a|Introduction: Caregivers of individuals with dementia are at heightened risk for stress-related mental and physical illnesses, and this problem is growing. There is a critical need to develop effective interventions for caregivers. This study tested whether a 2-day intervention improved psychological health in caregivers of individuals with dementia. Methods: Family caregivers (N  =  104) were randomly assigned to a 2-day intervention or wait-list control group. The intervention uses techniques aimed at fostering self-care for caregivers and improving communication between caregivers and individuals with dementia. Self-reported caregiver burden, stress, anxiety, and depression were measured at 1, 3, and 6  months after intervention. Results: Most participants (91.5%) completed the entire study. The intervention significantly reduced perceived stress for up to 6  months (    =  -2.84, t  =  -2.68, P  =  .008) and was considered by nearly all respondents to be helpful for managing challenging behaviors. Discussion: A low-cost, brief intervention shows promise for producing lasting improvements in caregiver's psychological health.
+30258974	61	68	persons	Species	9606
+30258974	74	82	dementia	Disease	D003704
+30258974	129	137	dementia	Disease	D003704
+30258974	372	392	psychological health	Disease	D020018
+30258974	427	435	dementia	Disease	D003704
+30258974	696	704	dementia	Disease	D003704
+30258974	746	753	anxiety	Disease	D001008
+30258974	759	769	depression	Disease	D003866
+30258974	841	853	participants	Species	9606
+30258974	1208	1228	psychological health	Disease	D020018
+
+30258973|t|Amyloid-associated increases in longitudinal report of subjective cognitive complaints.
+30258973|a|Introduction: To investigate whether baseline subjective cognitive complaints (SCCs) predict longitudinal decline on neuropsychological testing and whether SCC increases longitudinally, in the setting of high levels of amyloid burden. Methods: Two hundred seventy-nine clinically normal older participants (mean age  = 73.7    6.1 years) from the Harvard Aging Brain Study, a cohort of community-dwelling individuals, were followed longitudinally (4.27      1.35  years) with annual subjective memory questionnaires and neuropsychological assessment. 11C Pittsburgh compound-B positron emission tomography was used to measure cortical amyloid and to classify status (Ab+/Ab-) at baseline. Results: Higher baseline SCC predicted more rapid cognitive decline on neuropsychological measures among those with elevated amyloid (t  =  -2.18, P  <  .0001). In addition, longitudinal report of SCC significantly increased over time, with SCC progression most pronounced among Ab+ individuals (t  =  2.24, P  =  .0005). Discussion: SCC may inform risk for future cognitive decline and track progression of self-perceived decline, particularly in those along the AD trajectory, providing potentially important indicators of clinical meaningfulness in AD prevention trials.
+30258973	19	86	increases in longitudinal report of subjective cognitive complaints	Disease	D003072
+30258973	134	165	subjective cognitive complaints	Disease	D003072
+30258973	167	171	SCCs	Disease	D003072
+30258973	244	247	SCC	Gene	6317
+30258973	381	393	participants	Species	9606
+30258973	802	805	SCC	Gene	6317
+30258973	827	844	cognitive decline	Disease	D003072
+30258973	974	977	SCC	Gene	6317
+30258973	1018	1021	SCC	Gene	6317
+30258973	1111	1114	SCC	Gene	6317
+30258973	1142	1159	cognitive decline	Disease	D003072
+30258973	1241	1243	AD	Disease	D000544
+30258973	1329	1331	AD	Disease	D000544
+
+30258764|t|3D tissue engineering, an emerging technique for pharmaceutical research.
+30258764|a|Tissue engineering and the tissue engineering model have shown promise in improving methods of drug delivery, drug action, and drug discovery in pharmaceutical research for the attenuation of the central nervous system inflammatory response. Such inflammation contributes to the lack of regenerative ability of neural cells, as well as the temporary and permanent loss of function associated with neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, and traumatic brain injury. This review is focused specifically on the recent advances in the tissue engineering model made by altering scaffold biophysical and biochemical properties for use in the treatment of neurodegenerative diseases. A portion of this article will also be spent on the review of recent progress made in extracellular matrix decellularization as a new and innovative scaffold for disease treatment.
+30258764	471	497	neurodegenerative diseases	Disease	D019636
+30258764	506	525	Alzheimer's disease	Disease	D000544
+30258764	527	546	Parkinson's disease	Disease	D010300
+30258764	552	574	traumatic brain injury	Disease	D001930
+30258764	760	786	neurodegenerative diseases	Disease	D019636
+
+30258667|t|Beyond backscattering: optical neuroimaging by BRAD.
+30258667|a|Optical coherence tomography (OCT) is a powerful technology for rapid volumetric imaging in biomedicine. The bright field imaging approach of conventional OCT systems is based on the detection of directly backscattered light, thereby waiving the wealth of information contained in the angular scattering distribution. Here we demonstrate that the unique features of few-mode fibers (FMF) enable simultaneous bright and dark field (BRAD) imaging for OCT. As backscattered light is picked up by the different modes of a FMF depending upon the angular scattering pattern, we obtain access to the directional scattering signatures of different tissues by decoupling illumination and detection paths. We exploit the distinct modal propagation properties of the FMF in concert with the long coherence lengths provided by modern wavelength-swept lasers to achieve multiplexing of the different modal responses into a combined OCT tomogram. We demonstrate BRAD sensing for distinguishing differently sized microparticles and showcase the performance of BRAD-OCT imaging with enhanced contrast for ex vivo tumorous tissue in glioblastoma and neuritic plaques in Alzheimer's disease.
+30258667	83	86	OCT	Gene	5362
+30258667	208	211	OCT	Gene	5362
+30258667	419	434	few-mode fibers	Disease	C537734
+30258667	436	439	FMF	Disease	C537734
+30258667	502	505	OCT	Gene	5362
+30258667	571	574	FMF	Disease	C537734
+30258667	809	812	FMF	Disease	C537734
+30258667	972	975	OCT	Gene	5362
+30258667	1098	1106	BRAD-OCT	Gene	5362
+30258667	1169	1181	glioblastoma	Disease	D005909
+30258667	1186	1202	neuritic plaques	Disease	D058225
+30258667	1206	1225	Alzheimer's disease	Disease	D000544
+
+30258515|t|Balint syndrome (chronic visual-spatial disorder) presenting without known cause.
+30258515|a|Balint's syndrome is a rare disorder characterized by a triad of simultanagnosia, optic apraxia, and ocular apraxia. The syndrome manifests when there is an injury to the posterior parietal and occipital lobes and is often bilateral. Several causes of this syndrome were published in the literature, such as trauma, infarctions, infections, tumors, and pre-eclampsia. It can also be the presenting feature of several neurodegenerative disorders, such as atypical Alzheimer's disease. We report a case of a 62-year-old lady who presented with simultanagnosia, optic apraxia, and ocular ataxia which are the typical signs and symptoms of this syndrome. Neuropsychological evaluation revealed severe affection of the visual-spatial function with intact memory, language, and cognition. Brain imaging confirmed atrophy and decreased perfusion in the posterior parietal and occipital lobes. No underlying cause could be identified to explain the brain parenchymal atrophy. The follow-up neuropsychological assessment and brain imaging did not show any progression confirming the static course of the disease.
+30258515	0	15	Balint syndrome	Disease	D013577
+30258515	25	48	visual-spatial disorder	Disease	D014786
+30258515	82	99	Balint's syndrome	Disease	D014899
+30258515	105	118	rare disorder	Disease	D035583
+30258515	183	197	ocular apraxia	Disease	C537423
+30258515	239	291	injury to the posterior parietal and occipital lobes	Disease	D001930
+30258515	390	396	trauma	Disease	D014947
+30258515	398	409	infarctions	Disease	D007238
+30258515	423	429	tumors	Disease	D009369
+30258515	435	448	pre-eclampsia	Disease	D011225
+30258515	499	526	neurodegenerative disorders	Disease	D019636
+30258515	545	564	Alzheimer's disease	Disease	D000544
+30258515	660	673	ocular ataxia	Disease	D001259
+30258515	796	819	visual-spatial function	Disease	D014786
+30258515	889	896	atrophy	Disease	D001284
+30258515	1041	1048	atrophy	Disease	D001284
+
+30258360|t|Postprandial Hyperglycemia Is Associated With White Matter Hyperintensity and Brain Atrophy in Older Patients With Type 2 Diabetes Mellitus.
+30258360|a|Type 2 diabetes mellitus is associated with neurodegeneration and cerebrovascular disease. However, the precise mechanism underlying the effects of glucose management on brain abnormalities is not fully understood. The differential impacts of glucose alteration on brain changes in patients with and without cognitive impairment are also unclear. This cross-sectional study included 57 older type 2 diabetes patients with a diagnosis of Alzheimer's disease (AD) or normal cognition (NC). We examined the effects of hypoglycemia, postprandial hyperglycemia and glucose fluctuations on regional white matter hyperintensity (WMH) and brain atrophy among these patients. In a multiple regression analysis, postprandial hyperglycemia was independently associated with frontal WMH in the AD patients. In addition, postprandial hyperglycemia was significantly associated with brain atrophy, regardless of the presence of cognitive decline. Altogether, our findings indicate that postprandial hyperglycemia is associated with WMH in AD patients but not NC patients, which suggests that AD patients are more susceptible to postprandial hyperglycemia associated with WMH.
+30258360	13	26	Hyperglycemia	Disease	D006943
+30258360	46	73	White Matter Hyperintensity	Disease	D056784
+30258360	78	91	Brain Atrophy	Disease	C566985
+30258360	101	109	Patients	Species	9606
+30258360	115	139	Type 2 Diabetes Mellitus	Disease	D003920
+30258360	141	165	Type 2 diabetes mellitus	Disease	D003920
+30258360	185	202	neurodegeneration	Disease	D019636
+30258360	207	230	cerebrovascular disease	Disease	D004194
+30258360	289	296	glucose	Chemical	D005947
+30258360	311	330	brain abnormalities	Disease	D001927
+30258360	384	391	glucose	Chemical	D005947
+30258360	423	431	patients	Species	9606
+30258360	449	469	cognitive impairment	Disease	D003072
+30258360	540	548	diabetes	Disease	D003920
+30258360	549	557	patients	Species	9606
+30258360	578	597	Alzheimer's disease	Disease	D000544
+30258360	599	601	AD	Disease	D000544
+30258360	656	668	hypoglycemia	Disease	D007003
+30258360	683	696	hyperglycemia	Disease	D006943
+30258360	701	708	glucose	Chemical	D005947
+30258360	772	785	brain atrophy	Disease	C566985
+30258360	798	806	patients	Species	9606
+30258360	856	869	hyperglycemia	Disease	D006943
+30258360	923	925	AD	Disease	D000544
+30258360	926	934	patients	Species	9606
+30258360	962	975	hyperglycemia	Disease	D006943
+30258360	1010	1023	brain atrophy	Disease	C566985
+30258360	1055	1072	cognitive decline	Disease	D003072
+30258360	1126	1139	hyperglycemia	Disease	D006943
+30258360	1166	1168	AD	Disease	D000544
+30258360	1169	1177	patients	Species	9606
+30258360	1189	1197	patients	Species	9606
+30258360	1219	1221	AD	Disease	D000544
+30258360	1222	1230	patients	Species	9606
+30258360	1268	1281	hyperglycemia	Disease	D006943
+
+java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/RESTful/tmTool.cgi/Bioconcept//PubTator/
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1839)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at RESTClientGet.main(RESTClientGet.java:43)
+
+Process finished with exit code 0
