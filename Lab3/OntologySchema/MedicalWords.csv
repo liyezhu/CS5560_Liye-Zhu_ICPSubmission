@@ -1,0 +1,198 @@
+﻿Patients,Species
+Diabetes,Disease
+Acromegaly,Disease
+Cushing's Disease,Disease
+Cushing  s disease,Disease
+type,Disease
+Dyslipidemia,Disease
+hypertension,Disease
+biguanides,Chemical
+dipeptidyl peptidase-4,Gene
+cardiovascular disease,Disease
+PROX1,Gene
+b-Catenin,Gene
+lymphedema,Disease
+GATA2,Gene
+FOXC2,Gene
+LEC,Gene
+TCF,Gene
+TCF7L1,Gene
+Endometrial Carcinoma,Disease
+Endometrial cancer,Disease
+endometrial carcinomas,Disease
+serous carcinomas,Disease
+carcinoma,Disease
+carcinosarcomas,Disease
+tumors,Disease
+PTEN,Gene
+driver of endometrioid carcinomas,Disease
+TP53,Gene
+driver of most serous carcinomas,Disease
+endometrioid carcinomas,Disease
+clear cell carcinomas,Disease
+Cancer Genome Atlas,Disease
+Adamantinoma of bone,Disease
+Adamantinomas,Disease
+bone tumors,Disease
+tibia,Disease
+adamantinoma,Disease
+metastasis,Disease
+pain,Disease
+swelling,Disease
+males,Species
+Male,Species
+tumor,Disease
+Sacsin,Gene
+ARSACS,Gene
+spastic ataxia,Disease
+recessive ataxias,Disease
+heat shock proteins,Disease
+scleroderma,Disease
+Systemic sclerosis,Disease
+SSc,Disease
+CYR61,Gene
+CCN1,Gene
+CTGF,Gene
+CCN2,Gene
+CCN3,Gene
+WISP1,Gene
+fibrosis,Disease
+vasculopathy,Disease
+inflammation,Disease
+Trichothiodystrophy,Disease
+childhood glaucoma,Disease
+systemic disease,Disease
+genetic diseases,Disease
+cataract,Disease
+refractive errors,Disease
+microcornea,Disease
+microphthalmia,Disease
+dry eye,Disease
+patient,Species
+choroidal melanoma,Disease
+Uveal melanoma,Disease
+cancer,Disease
+man,Species
+decreased vision,Disease
+choroidal tumor,Disease
+liver disease,Disease
+skin melanoma,Disease
+Autism,Disease
+CHAT,Species
+children,Species
+autism spectrum disorder,Disease
+ASD,Disease
+Acute multifocal retinitis,Disease
+retinal lesions,Disease
+fluorescein,Chemical
+ray,Species
+human,Species
+immunodeficiency virus,Disease
+Bartonella,Disease
+Rickettsia,Disease
+anterior chamber inflammation,Disease
+optic disc swelling in 9 eyes,Disease
+retinal detachment,Disease
+branch retinal artery occlusion,Disease
+Rickettsia conorii infection,Disease
+Rickettsia typhi infection,Disease
+cat-scratch disease,Disease
+retinal,Chemical
+idiopathic multifocal retinitis,Disease
+T-cell lymphoma,Disease
+Natural killer/T-cell lymphoma,Disease
+NKTL,Disease
+non-Hodgkin's lymphoma,Disease
+Epstein-Barr virus infection,Disease
+lymphomas,Disease
+aggressive disease,Disease
+18F-Fluorodexoyglucose,Chemical
+malignant tumors,Disease
+18F-FDG,Chemical
+sepsis,Disease
+Secondary infections,Disease
+infectious complications,Disease
+depression,Disease
+inflammatory disease,Disease
+T-cell lymphopenia,Disease
+induction of labor,Disease
+IOL,Disease
+women,Species
+Fisher,Species
+Incontinentia Pigmenti,Disease
+congenital absence of portal vein system and nodular regenerative hyperplasia,Disease
+Congenital absence of portal vein system,Disease
+CAPVS,Disease
+portal hypertension,Disease
+PH,Disease
+porto-systemic encephalopathy,Disease
+PSE,Disease
+Visceral anomalies,Disease
+liver cancer,Disease
+IP,Disease
+OMIM,Chemical
+eyes and central nervous system alterations,Disease
+NEMO,Gene
+IKBKG,Gene
+nodular regenerative hyperplasia,Disease
+NRH,Disease
+facial dysmorphisms,Disease
+cutaneous adnexal carcinomas,Disease
+squamous cell carcinoma,Disease
+CACs,Disease
+skin neoplasms,Disease
+SCC,Disease
+Carcinomas,Disease
+porocarcinoma,Disease
+anastomosis,Disease
+ulcerative colitis,Disease
+Abdominal pain,Disease
+barium,Chemical
+deaths,Disease
+cranial ICM,Disease
+titanium,Chemical
+Postoperative complication,Disease
+diplopia,Disease
+headaches,Disease
+mRS   =   1,Gene
+Systemic lupus erythematosus,Disease
+vasculitis overlap syndrome,Disease
+subarachnoid hemorrhage,Disease
+SLE,Disease
+vasculitis,Disease
+AAV,Species
+inflammatory disorder,Disease
+renal disease,Disease
+Neurologic manifestation,Disease
+SLE-AAV overlap syndrome,Disease
+cerebral ischemia,Disease
+SAH,Disease
+right anterior cerebral artery aneurysm,Disease
+intracranial aneurysm,Disease
+Neurologic involvement,Disease
+hemorrhagic stroke,Disease
+pseudorheumatoid dysplasia,Disease
+bone disorder,Disease
+degeneration of articular cartilage,Disease
+stiffness and joint enlargement,Disease
+Wnt1-inducible signalling protein 3,Gene
+WISP3,Gene
+child,Species
+gait abnormalities,Disease
+Schwannoma and Meningioma,Disease
+multiple tumors,Disease
+genetic disorders,Disease
+neurofibromatosis,Disease
+von Hippel-Lindau disease,Disease
+intracranial hemorrhage,Disease
+consciousness,Disease
+right hemiparesis,Disease
+stenosis,Disease
+Moyamoya disease,Disease
+hematoma,Disease
+spinal tumor,Disease
+cerebral hemorrhage,Disease
+schwannoma,Disease
+meningioma,Disease
+left hemiparesis,Disease
+numbness,Disease

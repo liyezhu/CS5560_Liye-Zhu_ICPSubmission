@@ -1,0 +1,2687 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/center/ontologies/2018/10/family#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/center/ontologies/2018/10/family#">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="Chemical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Gene"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Subject"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Toddlersrevisedfollowup"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="livercancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="choroidaltumor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="UnitedStates"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="commontonaturalhistoryofdiseasemetastasistoeye"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="components"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="organsystem"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="are"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SAH"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="arecomplicationof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="restorativeproctocolectomy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="outcomesofpatientswithadamantinoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="spasticataxiaofCharlevoixSaguenayonechildhoodonsetataxias"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Slowlygrowingwas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Uvealmelanoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="connectivetissuedisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="sepsis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="They"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="normalwallthickness"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="haveuncovered"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="lymphomas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Neurologicinvolvement"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="induces"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="analysis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="havealreadyimplicatedinkeyprocessesofSSc"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="implicatePTENinactivationas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Acuteretinitis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="months"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="onesuchcaseofmanwithdisproportionallyenlargedrightatrium"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="protected"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="majorextradural"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="discuss"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="associationbetweenSLEAAV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="goals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="carcinomas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="timeleading"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Adamantinomas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Surgicalresection"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="observations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="poor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="livercancer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="cavernousmalformationsofare"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="systemicinflammation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="clinicalcharacteristicsofentity"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isdueto"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Jdomain"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="describe"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="studyofgenomicDNA"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="symptom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="bonedisorder"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="translated"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="acromegaly"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pathogenicaberrationsinhistotype"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="areuniqueamong"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ModifiedChecklist"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="showed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="increasingincidence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="conservativemanagement"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="had"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="achieved"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="versioninSpanishpublichealthsystem"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="shouldtreatmentofchoiceforpatients"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Uvealmelanoma"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="canoccurin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="theirmeanage"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="differentialdiagnosis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="multicolorflowcytometry"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="staging"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="relativelyrarebenigntumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="portalperfusion"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="characterizationfromDPV"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Adamantinomas"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="developingin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="carcinomas"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="developsinvolvementwithout"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CraniocervicalMRimages"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="oppositeeffects"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="newpigmentedtumor"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="predominates"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="havedescribed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Trichothiodystrophy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="aim"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Neurologicmanifestationin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="typicalPPRDfindings"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="analyze"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="clinicallaboratoryof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="purpose"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="can"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Recentstudies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="absenceofeffectivetreatment"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Magneticresonanceangiography"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hematomainbasalgangliaperforating"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="cord"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="MCHATRF"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="validate"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="represent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="bundlingin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="differentialdiagnosis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="performed"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="poorprognosis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isdiagnosedmalignancyin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="meanfollowupperiod"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="investigate"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="potentialimplicationsforcarcinoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="canassociatedwithCAPVS"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="patient"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="include"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="sepsissurgery"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="identifies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="manyneuronalpopulations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="results"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="caseof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="diabetes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="case"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="diseaseonset"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Trichothiodystrophy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="commonadultintraocularcancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="appropriatetreatmentstrategy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isin"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Herereport"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="approximatelypercent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isbypassedby"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ASDscreeningprogram"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="purpose"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="groupofdiseasescharacterizedbyDNArepairanomalies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CranialMRimages"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="tumors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patients"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="be"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="domains"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="MCHATRF"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="surgery"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="goals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="present"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Neurologicinvolvement"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="initialcompressionofventricle"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="causes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="SLEAAV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="skull"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Magneticresonanceangiography"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="classificationofendometrioidintofoursubgroupsPOLE"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="possibleimplicationinSScpathogenesiswithfocusonskinfeatures"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="syndrome"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hasconsidered"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="patient"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="subtype"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="we"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="included"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="veryrareabnormality"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="progressesover"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Hereprovide"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="children"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Completelesionresection"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="encoding"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="severestenosisofterminalportionofbilateralcarotidarteries"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="surgicalresection"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="extradurallesion"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="swelling"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="demonstrated"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="frontlineclinician"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Ocularmanifestations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="granulocytes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="English"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="tumors"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CranialMRimages"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="arefamilyof"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="extracomponents"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="isknownabout"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="portosystemicshunt"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="We"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="should"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="aresimilarto"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="NaturalkillerTcelllymphoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="skull"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Megapouch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="He"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="percent"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="article"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="changes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="exomesequencing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="prominentfeature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="syndrome"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ensure"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Knowledge"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="confirmedatriomegalywith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="underwent"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="underwentremovalAfter"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="sclerosis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="mutation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="CraniocervicalMRimages"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="children"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Peptides"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="driver"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="renaldisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="levelwithdiscretehistopathology"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="extradurallesion"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="consider"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="have"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Endometrialcancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Ocularmanifestations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Disease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="granulocytes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="echocardiogram"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="extracomponents"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="discharge"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="referred"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="percentofcasesincludingcataracterrors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="were"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="haveshown"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="iscondition"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="hugerightatrium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="study"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="iswith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="He"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Moreoverresultedin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="NaturalkillerTcelllymphoma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="bonetumors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="israrecomplicationof"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="manifestations"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="sepsissurgery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="exomesequencing"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Magneticresonanceimaging"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="prominentfeature"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="CCNproteins"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="resectedatrium"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="was"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Genetictesting"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="shouldconsideredintumors"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="iscommoncomplicationof"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="consistedof"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="ofonehalfis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="renaldisease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="pseudorheumatoiddysplasia"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="report"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="schwannomarespectively"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="livermetastasis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="largekDamultidomainprotein"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="antineutrophilcytoplasmicvasculitis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="child"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Endometrialcancer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="werediagnosedwith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="shouldstartwith"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Little"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="percentamongentireseriesofintracranialCMs"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="clinicopathologicalfeatures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="manifestation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="rightatrium"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="belongsto"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ASD"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="rare"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="PPRD"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="increasein"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="trichothiodystrophy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="study"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="proteins"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="we"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="incidence"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="meningioma"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ubiquitinlikedomainmodifiedneurofilamentassembly"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="symptoms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="petroclivalICM"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="ultrasonography"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="pseudorheumatoiddysplasia"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="child"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="antineutrophilcytoplasmicvasculitis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="Idiopathicenlargementofis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="performed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="largekDamultidomainprotein"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="years"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="They"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="livermetastasis"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="resolvedbefore"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="infections"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="We"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="clinicopathologicalfeatures"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="similarcases"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="manifestation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="overlap"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="shortnesspalpitationsarrhythmias"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="arisingin"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="Species"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="twocases"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="assessmentwith"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="is"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="radiologicalfeatures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="Surgicalresection"/>
+    </Declaration>
+    <ClassAssertion>
+        <Class IRI="CranialMRimages"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="CraniocervicalMRimages"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Endometrialcancer"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="He"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Magneticresonanceangiography"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="NaturalkillerTcelllymphoma"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Neurologicinvolvement"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="They"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Trichothiodystrophy"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Uvealmelanoma"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="antineutrophilcytoplasmicvasculitis"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="carcinomas"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="clinicopathologicalfeatures"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="differentialdiagnosis"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="exomesequencing"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="extracomponents"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="extradurallesion"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="granulocytes"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="livercancer"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="livermetastasis"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="present"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="pseudorheumatoiddysplasia"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="renaldisease"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="sepsissurgery"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="skull"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="study"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="tumor"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="tumors"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="we"/>
+        <NamedIndividual IRI="Disease"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Adamantinomas"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="MCHATRF"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Ocularmanifestations"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="Surgicalresection"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="We"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="child"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="children"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="goals"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="largekDamultidomainprotein"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="manifestation"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="patient"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="patients"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="prominentfeature"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="purpose"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="syndrome"/>
+        <NamedIndividual IRI="Species"/>
+    </ClassAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iscondition"/>
+        <NamedIndividual IRI="Acuteretinitis"/>
+        <NamedIndividual IRI="hasconsidered"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="are"/>
+        <NamedIndividual IRI="Adamantinomas"/>
+        <NamedIndividual IRI="bonetumors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="arefamilyof"/>
+        <NamedIndividual IRI="CCNproteins"/>
+        <NamedIndividual IRI="proteins"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="Completelesionresection"/>
+        <NamedIndividual IRI="achieved"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="showed"/>
+        <NamedIndividual IRI="CranialMRimages"/>
+        <NamedIndividual IRI="hematomainbasalgangliaperforating"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="demonstrated"/>
+        <NamedIndividual IRI="CraniocervicalMRimages"/>
+        <NamedIndividual IRI="tumor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isdiagnosedmalignancyin"/>
+        <NamedIndividual IRI="Endometrialcancer"/>
+        <NamedIndividual IRI="UnitedStates"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="shouldstartwith"/>
+        <NamedIndividual IRI="Genetictesting"/>
+        <NamedIndividual IRI="studyofgenomicDNA"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="have"/>
+        <NamedIndividual IRI="He"/>
+        <NamedIndividual IRI="newpigmentedtumor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="had"/>
+        <NamedIndividual IRI="Jdomain"/>
+        <NamedIndividual IRI="oppositeeffects"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="Knowledge"/>
+        <NamedIndividual IRI="poor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isknownabout"/>
+        <NamedIndividual IRI="Little"/>
+        <NamedIndividual IRI="clinicalcharacteristicsofentity"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="MCHATRF"/>
+        <NamedIndividual IRI="translated"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="demonstrated"/>
+        <NamedIndividual IRI="Magneticresonanceangiography"/>
+        <NamedIndividual IRI="severestenosisofterminalportionofbilateralcarotidarteries"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="confirmedatriomegalywith"/>
+        <NamedIndividual IRI="Magneticresonanceimaging"/>
+        <NamedIndividual IRI="initialcompressionofventricle"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="israrecomplicationof"/>
+        <NamedIndividual IRI="Megapouch"/>
+        <NamedIndividual IRI="restorativeproctocolectomy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isin"/>
+        <NamedIndividual IRI="ModifiedChecklist"/>
+        <NamedIndividual IRI="Toddlersrevisedfollowup"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="NaturalkillerTcelllymphoma"/>
+        <NamedIndividual IRI="subtype"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="overlap"/>
+        <NamedIndividual IRI="Neurologicinvolvement"/>
+        <NamedIndividual IRI="syndrome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="canoccurin"/>
+        <NamedIndividual IRI="Ocularmanifestations"/>
+        <NamedIndividual IRI="percentofcasesincludingcataracterrors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="PPRD"/>
+        <NamedIndividual IRI="rare"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isdueto"/>
+        <NamedIndividual IRI="PPRD"/>
+        <NamedIndividual IRI="mutation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="encoding"/>
+        <NamedIndividual IRI="Peptides"/>
+        <NamedIndividual IRI="ubiquitinlikedomainmodifiedneurofilamentassembly"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="haveshown"/>
+        <NamedIndividual IRI="Recentstudies"/>
+        <NamedIndividual IRI="increasingincidence"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="should"/>
+        <NamedIndividual IRI="Surgicalresection"/>
+        <NamedIndividual IRI="shouldtreatmentofchoiceforpatients"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="have"/>
+        <NamedIndividual IRI="They"/>
+        <NamedIndividual IRI="havealreadyimplicatedinkeyprocessesofSSc"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="belongsto"/>
+        <NamedIndividual IRI="Trichothiodystrophy"/>
+        <NamedIndividual IRI="groupofdiseasescharacterizedbyDNArepairanomalies"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="Uvealmelanoma"/>
+        <NamedIndividual IRI="commonadultintraocularcancer"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="performed"/>
+        <NamedIndividual IRI="We"/>
+        <NamedIndividual IRI="analysis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="report"/>
+        <NamedIndividual IRI="We"/>
+        <NamedIndividual IRI="onesuchcaseofmanwithdisproportionallyenlargedrightatrium"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="report"/>
+        <NamedIndividual IRI="We"/>
+        <NamedIndividual IRI="twocases"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="validate"/>
+        <NamedIndividual IRI="aim"/>
+        <NamedIndividual IRI="versioninSpanishpublichealthsystem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Moreoverresultedin"/>
+        <NamedIndividual IRI="analysis"/>
+        <NamedIndividual IRI="classificationofendometrioidintofoursubgroupsPOLE"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="overlap"/>
+        <NamedIndividual IRI="antineutrophilcytoplasmicvasculitis"/>
+        <NamedIndividual IRI="syndrome"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="article"/>
+        <NamedIndividual IRI="protected"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="represent"/>
+        <NamedIndividual IRI="carcinomas"/>
+        <NamedIndividual IRI="approximatelypercent"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="developsinvolvementwithout"/>
+        <NamedIndividual IRI="child"/>
+        <NamedIndividual IRI="systemicinflammation"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="werediagnosedwith"/>
+        <NamedIndividual IRI="children"/>
+        <NamedIndividual IRI="ASD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="areuniqueamong"/>
+        <NamedIndividual IRI="clinicopathologicalfeatures"/>
+        <NamedIndividual IRI="lymphomas"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iscommoncomplicationof"/>
+        <NamedIndividual IRI="diabetes"/>
+        <NamedIndividual IRI="acromegaly"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="included"/>
+        <NamedIndividual IRI="differentialdiagnosis"/>
+        <NamedIndividual IRI="choroidaltumor"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isin"/>
+        <NamedIndividual IRI="differentialdiagnosis"/>
+        <NamedIndividual IRI="caseof"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="progressesover"/>
+        <NamedIndividual IRI="diseaseonset"/>
+        <NamedIndividual IRI="timeleading"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="demonstrated"/>
+        <NamedIndividual IRI="echocardiogram"/>
+        <NamedIndividual IRI="hugerightatrium"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="haveuncovered"/>
+        <NamedIndividual IRI="exomesequencing"/>
+        <NamedIndividual IRI="pathogenicaberrationsinhistotype"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="were"/>
+        <NamedIndividual IRI="extracomponents"/>
+        <NamedIndividual IRI="schwannomarespectively"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="extradurallesion"/>
+        <NamedIndividual IRI="meningioma"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="assessmentwith"/>
+        <NamedIndividual IRI="frontlineclinician"/>
+        <NamedIndividual IRI="multicolorflowcytometry"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="describe"/>
+        <NamedIndividual IRI="goals"/>
+        <NamedIndividual IRI="manifestations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="increasein"/>
+        <NamedIndividual IRI="granulocytes"/>
+        <NamedIndividual IRI="sepsis"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="incidence"/>
+        <NamedIndividual IRI="percentamongentireseriesofintracranialCMs"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="arecomplicationof"/>
+        <NamedIndividual IRI="infections"/>
+        <NamedIndividual IRI="surgery"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="causes"/>
+        <NamedIndividual IRI="largekDamultidomainprotein"/>
+        <NamedIndividual IRI="spasticataxiaofCharlevoixSaguenayonechildhoodonsetataxias"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="can"/>
+        <NamedIndividual IRI="livercancer"/>
+        <NamedIndividual IRI="canassociatedwithCAPVS"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="livermetastasis"/>
+        <NamedIndividual IRI="commontonaturalhistoryofdiseasemetastasistoeye"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Slowlygrowingwas"/>
+        <NamedIndividual IRI="manifestation"/>
+        <NamedIndividual IRI="swelling"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="meanfollowupperiod"/>
+        <NamedIndividual IRI="months"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="implicatePTENinactivationas"/>
+        <NamedIndividual IRI="observations"/>
+        <NamedIndividual IRI="driver"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iswith"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="SAH"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iswith"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="SLEAAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iswith"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="petroclivalICM"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iswith"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="trichothiodystrophy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="underwent"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="surgicalresection"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="underwentremovalAfter"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="conservativemanagement"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="patient"/>
+        <NamedIndividual IRI="referred"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="iswith"/>
+        <NamedIndividual IRI="patients"/>
+        <NamedIndividual IRI="typicalPPRDfindings"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ofonehalfis"/>
+        <NamedIndividual IRI="patients"/>
+        <NamedIndividual IRI="percent"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isin"/>
+        <NamedIndividual IRI="poorprognosis"/>
+        <NamedIndividual IRI="absenceofeffectivetreatment"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="isbypassedby"/>
+        <NamedIndividual IRI="portalperfusion"/>
+        <NamedIndividual IRI="portosystemicshunt"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="consider"/>
+        <NamedIndividual IRI="present"/>
+        <NamedIndividual IRI="associationbetweenSLEAAV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="bundlingin"/>
+        <NamedIndividual IRI="prominentfeature"/>
+        <NamedIndividual IRI="manyneuronalpopulations"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="pseudorheumatoiddysplasia"/>
+        <NamedIndividual IRI="bonedisorder"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="analyze"/>
+        <NamedIndividual IRI="purpose"/>
+        <NamedIndividual IRI="causes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="investigate"/>
+        <NamedIndividual IRI="purpose"/>
+        <NamedIndividual IRI="outcomesofpatientswithadamantinoma"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="clinicallaboratoryof"/>
+        <NamedIndividual IRI="radiologicalfeatures"/>
+        <NamedIndividual IRI="PPRD"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="predominates"/>
+        <NamedIndividual IRI="renaldisease"/>
+        <NamedIndividual IRI="organsystem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="had"/>
+        <NamedIndividual IRI="resectedatrium"/>
+        <NamedIndividual IRI="normalwallthickness"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="aresimilarto"/>
+        <NamedIndividual IRI="results"/>
+        <NamedIndividual IRI="English"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Idiopathicenlargementofis"/>
+        <NamedIndividual IRI="rightatrium"/>
+        <NamedIndividual IRI="veryrareabnormality"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="is"/>
+        <NamedIndividual IRI="sclerosis"/>
+        <NamedIndividual IRI="connectivetissuedisease"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="induces"/>
+        <NamedIndividual IRI="sepsissurgery"/>
+        <NamedIndividual IRI="changes"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="have"/>
+        <NamedIndividual IRI="similarcases"/>
+        <NamedIndividual IRI="havedescribed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="cavernousmalformationsofare"/>
+        <NamedIndividual IRI="skull"/>
+        <NamedIndividual IRI="relativelyrarebenigntumors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="ensure"/>
+        <NamedIndividual IRI="staging"/>
+        <NamedIndividual IRI="appropriatetreatmentstrategy"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="consider"/>
+        <NamedIndividual IRI="study"/>
+        <NamedIndividual IRI="ASDscreeningprogram"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="identifies"/>
+        <NamedIndividual IRI="study"/>
+        <NamedIndividual IRI="domains"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="resolvedbefore"/>
+        <NamedIndividual IRI="symptom"/>
+        <NamedIndividual IRI="discharge"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="include"/>
+        <NamedIndividual IRI="symptoms"/>
+        <NamedIndividual IRI="shortnesspalpitationsarrhythmias"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Neurologicmanifestationin"/>
+        <NamedIndividual IRI="syndrome"/>
+        <NamedIndividual IRI="patients"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="was"/>
+        <NamedIndividual IRI="theirmeanage"/>
+        <NamedIndividual IRI="years"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="consistedof"/>
+        <NamedIndividual IRI="tumor"/>
+        <NamedIndividual IRI="components"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="consistedof"/>
+        <NamedIndividual IRI="tumor"/>
+        <NamedIndividual IRI="majorextradural"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="arisingin"/>
+        <NamedIndividual IRI="tumors"/>
+        <NamedIndividual IRI="levelwithdiscretehistopathology"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="be"/>
+        <NamedIndividual IRI="tumors"/>
+        <NamedIndividual IRI="shouldconsideredintumors"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="developingin"/>
+        <NamedIndividual IRI="tumors"/>
+        <NamedIndividual IRI="cord"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="were"/>
+        <NamedIndividual IRI="ultrasonography"/>
+        <NamedIndividual IRI="performed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Hereprovide"/>
+        <NamedIndividual IRI="we"/>
+        <NamedIndividual IRI="characterizationfromDPV"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="Herereport"/>
+        <NamedIndividual IRI="we"/>
+        <NamedIndividual IRI="case"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="discuss"/>
+        <NamedIndividual IRI="we"/>
+        <NamedIndividual IRI="possibleimplicationinSScpathogenesiswithfocusonskinfeatures"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="discuss"/>
+        <NamedIndividual IRI="we"/>
+        <NamedIndividual IRI="potentialimplicationsforcarcinoma"/>
+    </ObjectPropertyAssertion>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Hereprovide"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Herereport"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Idiopathicenlargementofis"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Moreoverresultedin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Neurologicmanifestationin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="Slowlygrowingwas"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="analyze"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="are"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="arecomplicationof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="arefamilyof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="aresimilarto"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="areuniqueamong"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="arisingin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="assessmentwith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="be"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="belongsto"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="bundlingin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="can"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="canoccurin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="causes"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="cavernousmalformationsofare"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="clinicallaboratoryof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="confirmedatriomegalywith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="consider"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="consider"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="consistedof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="consistedof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="demonstrated"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="demonstrated"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="demonstrated"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="describe"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="developingin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="developsinvolvementwithout"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="discuss"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="discuss"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="encoding"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="ensure"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="had"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="had"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="have"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="have"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="have"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="haveshown"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="haveuncovered"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="identifies"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="implicatePTENinactivationas"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="include"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="included"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="increasein"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="induces"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="investigate"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="is"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isbypassedby"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iscommoncomplicationof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iscondition"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isdiagnosedmalignancyin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isdueto"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isin"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="isknownabout"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="israrecomplicationof"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="iswith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="ofonehalfis"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="overlap"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="overlap"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="performed"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="predominates"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="progressesover"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="report"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="report"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="represent"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="resolvedbefore"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="should"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="shouldstartwith"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="showed"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="underwent"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="underwentremovalAfter"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="validate"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="was"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="were"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="were"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="werediagnosedwith"/>
+    </FunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Hereprovide"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Herereport"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Idiopathicenlargementofis"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Moreoverresultedin"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Neurologicmanifestationin"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="Slowlygrowingwas"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="analyze"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="are"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="arecomplicationof"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="arefamilyof"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="aresimilarto"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="areuniqueamong"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="arisingin"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="assessmentwith"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="be"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="belongsto"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="bundlingin"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="can"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="canoccurin"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="causes"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="cavernousmalformationsofare"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="clinicallaboratoryof"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="confirmedatriomegalywith"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="consider"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="consider"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="consistedof"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="consistedof"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="describe"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="developingin"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="developsinvolvementwithout"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="discuss"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="discuss"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="encoding"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="ensure"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="had"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="had"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="haveshown"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="haveuncovered"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="identifies"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="implicatePTENinactivationas"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="include"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="included"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="increasein"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="induces"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="investigate"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isbypassedby"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iscommoncomplicationof"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iscondition"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isdiagnosedmalignancyin"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isdueto"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="isknownabout"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="israrecomplicationof"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="ofonehalfis"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="overlap"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="overlap"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="performed"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="predominates"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="progressesover"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="report"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="report"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="represent"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="resolvedbefore"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="should"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="shouldstartwith"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="showed"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="underwent"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="underwentremovalAfter"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="validate"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="were"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="were"/>
+        <Class IRI="Subject"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="werediagnosedwith"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Hereprovide"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Herereport"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Idiopathicenlargementofis"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Moreoverresultedin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Neurologicmanifestationin"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="Slowlygrowingwas"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="analyze"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="are"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="arecomplicationof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="arefamilyof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="aresimilarto"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="areuniqueamong"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="arisingin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="assessmentwith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="be"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="belongsto"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="bundlingin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="can"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="canoccurin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="causes"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="cavernousmalformationsofare"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="clinicallaboratoryof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="confirmedatriomegalywith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="consider"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="consider"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="consistedof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="consistedof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Disease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="demonstrated"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="describe"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="developingin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="developsinvolvementwithout"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="discuss"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="discuss"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="encoding"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="ensure"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="had"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="had"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="have"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="haveshown"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="haveuncovered"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="identifies"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="implicatePTENinactivationas"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="include"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="included"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="increasein"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="induces"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="investigate"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="is"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isbypassedby"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iscommoncomplicationof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iscondition"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isdiagnosedmalignancyin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isdueto"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isin"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="isknownabout"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="israrecomplicationof"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="iswith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="ofonehalfis"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="overlap"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="overlap"/>
+        <Class IRI="Species"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="performed"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="predominates"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="progressesover"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="report"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="report"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="represent"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="resolvedbefore"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="should"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="shouldstartwith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="showed"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="underwent"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="underwentremovalAfter"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="validate"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="was"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="were"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="were"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="werediagnosedwith"/>
+        <Class IRI="Object"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.1.0) https://github.com/owlcs/owlapi/ -->
+
+

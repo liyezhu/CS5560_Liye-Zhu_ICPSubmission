@@ -1,0 +1,144 @@
+30258976|t|Cognitive and structural cerebral changes in amnestic mild cognitive impairment due to Alzheimer's disease after multicomponent training.
+30258976|a|Introduction: Information about how physical exercise affects patients with amnestic mild cognitive impairment (aMCI) due to Alzheimer's disease (AD) is still missing. This study evaluated the impact of multicomponent exercise training on cognition and brain structure in aMCI subjects with cerebral spinal fluid positive AD biomarkers. Methods: Forty aMCI subjects were divided in training (multicomponent exercise thrice a week for 6 months) and nontraining groups. Assessments included cardiorespiratory fitness, neurocognitive tests, and a structural magnetic resonance imaging using 3.0  T scanner. FreeSurfer software analyzed hippocampal volume and cortical thickness. Results: The training group showed increased volume in both hippocampi and better performance in episodic memory test after 6 months. In contrast, the nontraining group declined in functional activities, recognition, and cardiorespiratory fitness for the same period. Discussion: Multicomponent exercise seems to improve hippocampal volume and episodic memory, and maintains VO2max in aMCI due to AD.
+30258976	amnestic mild cognitive impairment	Disease
+30258976	Alzheimer's disease	Disease
+30258976	patients	Species
+30258976	amnestic mild cognitive impairment	Disease
+30258976	aMCI	Disease
+30258976	Alzheimer's disease	Disease
+30258976	AD	Disease
+30258976	aMCI	Disease
+30258976	AD	Disease
+30258976	aMCI	Disease
+30258976	cardiorespiratory fitness	Disease
+30258976	cardiorespiratory fitness	Disease
+30258976	aMCI	Disease
+30258976	AD	Disease
+30258975|t|Electrical brain stimulation in different variants of primary progressive aphasia: A randomized clinical trial.
+30258975|a|Introduction: Transcranial direct current stimulation (tDCS) has been recently shown to improve language outcomes in primary progressive aphasia (PPA) but most studies are small and the influence of PPA variant is unknown. Methods: Thirty-six patients with PPA participated in a randomized, sham-controlled, double-blind, within-subject crossover design for 15 daily sessions of stimulation coupled with written naming/spelling therapy. Outcome measures were letter accuracy of treated and untreated words immediately after and at 2  weeks and 2  months posttreatment. Results: tDCS treatment was more effective than sham: gains for treated words were maintained 2  months posttreatment; gains from tDCS also generalized to untreated words and were sustained 2  months posttreatment. Different effects were obtained for each PPA variant, with no tDCS advantage for semantic variant PPA. Discussion: The study supports using tDCS as an adjunct to written language interventions in individuals with logopenic or nonfluent/agrammatic PPA seeking compensatory treatments in clinical settings.
+30258975	primary progressive aphasia	Disease
+30258975	primary progressive aphasia	Disease
+30258975	PPA	Disease
+30258975	PPA	Disease
+30258975	patients	Species
+30258975	PPA	Disease
+30258975	PPA	Disease
+30258975	PPA	Disease
+30258975	PPA	Disease
+30258974|t|A novel two-day intervention reduces stress in caregivers of persons with dementia.
+30258974|a|Introduction: Caregivers of individuals with dementia are at heightened risk for stress-related mental and physical illnesses, and this problem is growing. There is a critical need to develop effective interventions for caregivers. This study tested whether a 2-day intervention improved psychological health in caregivers of individuals with dementia. Methods: Family caregivers (N  =  104) were randomly assigned to a 2-day intervention or wait-list control group. The intervention uses techniques aimed at fostering self-care for caregivers and improving communication between caregivers and individuals with dementia. Self-reported caregiver burden, stress, anxiety, and depression were measured at 1, 3, and 6  months after intervention. Results: Most participants (91.5%) completed the entire study. The intervention significantly reduced perceived stress for up to 6  months (    =  -2.84, t  =  -2.68, P  =  .008) and was considered by nearly all respondents to be helpful for managing challenging behaviors. Discussion: A low-cost, brief intervention shows promise for producing lasting improvements in caregiver's psychological health.
+30258974	persons	Species
+30258974	dementia	Disease
+30258974	dementia	Disease
+30258974	psychological health	Disease
+30258974	dementia	Disease
+30258974	dementia	Disease
+30258974	anxiety	Disease
+30258974	depression	Disease
+30258974	participants	Species
+30258974	psychological health	Disease
+30258973|t|Amyloid-associated increases in longitudinal report of subjective cognitive complaints.
+30258973|a|Introduction: To investigate whether baseline subjective cognitive complaints (SCCs) predict longitudinal decline on neuropsychological testing and whether SCC increases longitudinally, in the setting of high levels of amyloid burden. Methods: Two hundred seventy-nine clinically normal older participants (mean age  = 73.7    6.1 years) from the Harvard Aging Brain Study, a cohort of community-dwelling individuals, were followed longitudinally (4.27      1.35  years) with annual subjective memory questionnaires and neuropsychological assessment. 11C Pittsburgh compound-B positron emission tomography was used to measure cortical amyloid and to classify status (Ab+/Ab-) at baseline. Results: Higher baseline SCC predicted more rapid cognitive decline on neuropsychological measures among those with elevated amyloid (t  =  -2.18, P  <  .0001). In addition, longitudinal report of SCC significantly increased over time, with SCC progression most pronounced among Ab+ individuals (t  =  2.24, P  =  .0005). Discussion: SCC may inform risk for future cognitive decline and track progression of self-perceived decline, particularly in those along the AD trajectory, providing potentially important indicators of clinical meaningfulness in AD prevention trials.
+30258973	increases in longitudinal report of subjective cognitive complaints	Disease
+30258973	subjective cognitive complaints	Disease
+30258973	SCCs	Disease
+30258973	SCC	Gene
+30258973	participants	Species
+30258973	SCC	Gene
+30258973	cognitive decline	Disease
+30258973	SCC	Gene
+30258973	SCC	Gene
+30258973	SCC	Gene
+30258973	cognitive decline	Disease
+30258973	AD	Disease
+30258973	AD	Disease
+30258764|t|3D tissue engineering, an emerging technique for pharmaceutical research.
+30258764|a|Tissue engineering and the tissue engineering model have shown promise in improving methods of drug delivery, drug action, and drug discovery in pharmaceutical research for the attenuation of the central nervous system inflammatory response. Such inflammation contributes to the lack of regenerative ability of neural cells, as well as the temporary and permanent loss of function associated with neurodegenerative diseases such as Alzheimer's disease, Parkinson's disease, and traumatic brain injury. This review is focused specifically on the recent advances in the tissue engineering model made by altering scaffold biophysical and biochemical properties for use in the treatment of neurodegenerative diseases. A portion of this article will also be spent on the review of recent progress made in extracellular matrix decellularization as a new and innovative scaffold for disease treatment.
+30258764	neurodegenerative diseases	Disease
+30258764	Alzheimer's disease	Disease
+30258764	Parkinson's disease	Disease
+30258764	traumatic brain injury	Disease
+30258764	neurodegenerative diseases	Disease
+30258667|t|Beyond backscattering: optical neuroimaging by BRAD.
+30258667|a|Optical coherence tomography (OCT) is a powerful technology for rapid volumetric imaging in biomedicine. The bright field imaging approach of conventional OCT systems is based on the detection of directly backscattered light, thereby waiving the wealth of information contained in the angular scattering distribution. Here we demonstrate that the unique features of few-mode fibers (FMF) enable simultaneous bright and dark field (BRAD) imaging for OCT. As backscattered light is picked up by the different modes of a FMF depending upon the angular scattering pattern, we obtain access to the directional scattering signatures of different tissues by decoupling illumination and detection paths. We exploit the distinct modal propagation properties of the FMF in concert with the long coherence lengths provided by modern wavelength-swept lasers to achieve multiplexing of the different modal responses into a combined OCT tomogram. We demonstrate BRAD sensing for distinguishing differently sized microparticles and showcase the performance of BRAD-OCT imaging with enhanced contrast for ex vivo tumorous tissue in glioblastoma and neuritic plaques in Alzheimer's disease.
+30258667	OCT	Gene
+30258667	OCT	Gene
+30258667	few-mode fibers	Disease
+30258667	FMF	Disease
+30258667	OCT	Gene
+30258667	FMF	Disease
+30258667	FMF	Disease
+30258667	OCT	Gene
+30258667	BRAD-OCT	Gene
+30258667	glioblastoma	Disease
+30258667	neuritic plaques	Disease
+30258667	Alzheimer's disease	Disease
+30258515|t|Balint syndrome (chronic visual-spatial disorder) presenting without known cause.
+30258515|a|Balint's syndrome is a rare disorder characterized by a triad of simultanagnosia, optic apraxia, and ocular apraxia. The syndrome manifests when there is an injury to the posterior parietal and occipital lobes and is often bilateral. Several causes of this syndrome were published in the literature, such as trauma, infarctions, infections, tumors, and pre-eclampsia. It can also be the presenting feature of several neurodegenerative disorders, such as atypical Alzheimer's disease. We report a case of a 62-year-old lady who presented with simultanagnosia, optic apraxia, and ocular ataxia which are the typical signs and symptoms of this syndrome. Neuropsychological evaluation revealed severe affection of the visual-spatial function with intact memory, language, and cognition. Brain imaging confirmed atrophy and decreased perfusion in the posterior parietal and occipital lobes. No underlying cause could be identified to explain the brain parenchymal atrophy. The follow-up neuropsychological assessment and brain imaging did not show any progression confirming the static course of the disease.
+30258515	Balint syndrome	Disease
+30258515	visual-spatial disorder	Disease
+30258515	Balint's syndrome	Disease
+30258515	rare disorder	Disease
+30258515	ocular apraxia	Disease
+30258515	injury to the posterior parietal and occipital lobes	Disease
+30258515	trauma	Disease
+30258515	infarctions	Disease
+30258515	tumors	Disease
+30258515	pre-eclampsia	Disease
+30258515	neurodegenerative disorders	Disease
+30258515	Alzheimer's disease	Disease
+30258515	ocular ataxia	Disease
+30258515	visual-spatial function	Disease
+30258515	atrophy	Disease
+30258515	atrophy	Disease
+30258360|t|Postprandial Hyperglycemia Is Associated With White Matter Hyperintensity and Brain Atrophy in Older Patients With Type 2 Diabetes Mellitus.
+30258360|a|Type 2 diabetes mellitus is associated with neurodegeneration and cerebrovascular disease. However, the precise mechanism underlying the effects of glucose management on brain abnormalities is not fully understood. The differential impacts of glucose alteration on brain changes in patients with and without cognitive impairment are also unclear. This cross-sectional study included 57 older type 2 diabetes patients with a diagnosis of Alzheimer's disease (AD) or normal cognition (NC). We examined the effects of hypoglycemia, postprandial hyperglycemia and glucose fluctuations on regional white matter hyperintensity (WMH) and brain atrophy among these patients. In a multiple regression analysis, postprandial hyperglycemia was independently associated with frontal WMH in the AD patients. In addition, postprandial hyperglycemia was significantly associated with brain atrophy, regardless of the presence of cognitive decline. Altogether, our findings indicate that postprandial hyperglycemia is associated with WMH in AD patients but not NC patients, which suggests that AD patients are more susceptible to postprandial hyperglycemia associated with WMH.
+30258360	Hyperglycemia	Disease
+30258360	White Matter Hyperintensity	Disease
+30258360	Brain Atrophy	Disease
+30258360	Patients	Species
+30258360	Type 2 Diabetes Mellitus	Disease
+30258360	Type 2 diabetes mellitus	Disease
+30258360	neurodegeneration	Disease
+30258360	cerebrovascular disease	Disease
+30258360	glucose	Chemical
+30258360	brain abnormalities	Disease
+30258360	glucose	Chemical
+30258360	patients	Species
+30258360	cognitive impairment	Disease
+30258360	diabetes	Disease
+30258360	patients	Species
+30258360	Alzheimer's disease	Disease
+30258360	AD	Disease
+30258360	hypoglycemia	Disease
+30258360	hyperglycemia	Disease
+30258360	glucose	Chemical
+30258360	brain atrophy	Disease
+30258360	patients	Species
+30258360	hyperglycemia	Disease
+30258360	AD	Disease
+30258360	patients	Species
+30258360	hyperglycemia	Disease
+30258360	brain atrophy	Disease
+30258360	cognitive decline	Disease
+30258360	hyperglycemia	Disease
+30258360	AD	Disease
+30258360	patients	Species
+30258360	patients	Species
+30258360	AD	Disease
+30258360	patients	Species
+30258360	hyperglycemia	Disease
+
+
+
+
+
+
+
+
+
+
+
+
+
+
