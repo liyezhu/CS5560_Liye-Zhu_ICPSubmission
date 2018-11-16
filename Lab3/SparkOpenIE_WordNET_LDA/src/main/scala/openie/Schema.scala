@@ -26,25 +26,12 @@ object Schema {
     val words = sc.textFile("MedicalWords.csv").map(line => {
       val l= line.replaceAll(" ", "").replaceAll("-", "").replaceAll("/", "").replaceAll("'","")
       val terms = l.split(",")
-      (terms(0),terms(1))
-    })
-
-    val input = sc.textFile("TripletList").map(line=>{
-      val l = line.split(",")
-      val sub = l(0)
-      val obj = l(2)
-
-      words.foreach(f=>{
-        if (sub.contains(f._1))
-          (sub,f._2)
-        if (obj.contains(f._1))
-          (obj,f._2)
-      })
-    }).collect()
+      terms(1)
+    }).distinct().collect()
 
 
-    val out = new PrintStream("sample")
-    input.foreach(f=>{
+    val out = new PrintStream("Classes")
+    words.foreach(f=>{
       out.println(f)
     })
     out.close()

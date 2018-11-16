@@ -31,7 +31,7 @@ public class CoreNLP {
                 // subject;object;predicate;\n
                 //triplets+=subject+","+predicate+","+object+",Obj\n";
                 //triplets+=predicate+",Subject,Object,Func\n";
-                triplets+=subject+","+predicate+","+object+"|";
+                triplets+=subject+","+predicate+","+object+",Obj\n";
 
 
                 noOfTriplets++;

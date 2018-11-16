@@ -31,13 +31,13 @@ object SparkOpenIE {
       val line2=line.replaceAll("[,]"," ")
 
       val t=CoreNLP.returnTriplets(line2)
-      (t,line)
+      t
 
     }).distinct().collect()
 
     val out = new PrintStream("TripletList")
     input.foreach(f=>{
-      out.print(f._1+"#"+f._2+"\n")
+      out.print(f)
     })
     //println(CoreNLP.returnTriplets("The dog has a lifespan of upto 10-12 years."))
    //println(input.collect().mkString("\n"))
