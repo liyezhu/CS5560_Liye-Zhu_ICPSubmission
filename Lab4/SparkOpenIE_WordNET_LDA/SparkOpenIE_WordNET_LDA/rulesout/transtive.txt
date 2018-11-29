@@ -1,0 +1,16 @@
+C,like,D and 
+D,like,C
+Transtive :
+C,like,C
+D,like,C and 
+C,like,D
+Transtive :
+D,like,D
+E,bossof,F and 
+F,bossof,G
+Transtive :
+E,bossof,G
+Mary,motherOf,Mary and 
+Mary,motherOf,John
+Transtive :
+Mary,motherOf,John

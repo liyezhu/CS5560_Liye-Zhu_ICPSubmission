@@ -1,0 +1,6 @@
+C,like,D SYMMETRIC TO D,like,C
+
+D,like,C SYMMETRIC TO C,like,D
+
+Mary,motherOf,Mary SYMMETRIC TO Mary,motherOf,Mary
+

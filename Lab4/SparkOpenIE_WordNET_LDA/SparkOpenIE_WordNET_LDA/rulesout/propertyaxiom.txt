@@ -1,0 +1,4 @@
+Mary,motherOf,Mary
+Mary,motherOf,John
+property axiom :
+Mary,hasGrandparent,John

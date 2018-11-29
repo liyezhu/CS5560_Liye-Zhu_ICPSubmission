@@ -1,0 +1,2 @@
+A,is,B INVERSE TO B,has,A
+B,has,A INVERSE TO A,is,B

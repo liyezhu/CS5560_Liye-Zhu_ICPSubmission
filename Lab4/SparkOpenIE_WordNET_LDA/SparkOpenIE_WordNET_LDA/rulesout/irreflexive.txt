@@ -1,0 +1,2 @@
+Mary,motherOf,John
+Mary,motherOf,Mary
